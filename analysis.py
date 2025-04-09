@@ -1,14 +1,14 @@
 import pandas as pd
-import sys
-import os
-from os import path
-import matplotlib.pyplot as plt
-from sklearn.cluster import AgglomerativeClustering
-from sklearn.cluster import KMeans
-from sklearn.cluster import DBSCAN
-from sklearn.metrics import silhouette_score
-from sklearn.decomposition import PCA
-import numpy as np
+#import sys
+#import os
+#from os import path
+#import matplotlib.pyplot as plt
+#from sklearn.cluster import AgglomerativeClustering
+#from sklearn.cluster import KMeans
+#from sklearn.cluster import DBSCAN
+#from sklearn.metrics import silhouette_score
+#from sklearn.decomposition import PCA
+#import numpy as np
 
 CONSOLE_COLOR_RED = "\033[91m"
 CONSOLE_COLOR_MAG = "\033[95m"
