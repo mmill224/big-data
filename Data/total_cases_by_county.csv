@@ -1,0 +1,3273 @@
+state,county,total_cases
+New York,New York City,56135658
+California,Los Angeles,44307464
+Illinois,Cook,29910215
+Florida,Miami-Dade,26008017
+Arizona,Maricopa,22970785
+Texas,Harris,20161359
+Texas,Dallas,13506071
+Florida,Broward,11924547
+New York,Nassau,10754300
+Nevada,Clark,10742491
+New York,Suffolk,10580196
+California,Riverside,9310974
+New York,Westchester,8897169
+California,San Bernardino,8534610
+California,Orange,8509759
+Texas,Bexar,8425951
+Texas,Tarrant,8364679
+Pennsylvania,Philadelphia,7760233
+California,San Diego,7647763
+Michigan,Wayne,7388297
+Florida,Palm Beach,7362292
+Florida,Hillsborough,6424361
+Florida,Orange,6226818
+Massachusetts,Middlesex,6224446
+Utah,Salt Lake,5984329
+Wisconsin,Milwaukee,5815062
+Maryland,Prince George's,5540242
+Texas,El Paso,5353575
+Massachusetts,Suffolk,5315405
+New Jersey,Bergen,5217804
+Minnesota,Hennepin,5182722
+Tennessee,Shelby,5110240
+New Jersey,Essex,4975781
+Tennessee,Davidson,4888413
+New Jersey,Hudson,4870259
+North Carolina,Mecklenburg,4745412
+Ohio,Franklin,4688600
+Florida,Duval,4628121
+Connecticut,Fairfield,4620854
+California,Kern,4566896
+Texas,Travis,4555530
+Georgia,Fulton,4480669
+New Jersey,Middlesex,4436447
+Texas,Hidalgo,4413968
+New Jersey,Passaic,4379192
+Georgia,Gwinnett,4369044
+Massachusetts,Essex,4361398
+Washington,King,4296726
+Indiana,Marion,4291865
+Michigan,Oakland,4285403
+Maryland,Montgomery,4262518
+New Jersey,Union,4212553
+Missouri,St. Louis,4175019
+California,Fresno,4040072
+Arizona,Pima,3948586
+Virginia,Fairfax,3909920
+Rhode Island,Providence,3873602
+Illinois,DuPage,3635673
+New York,Rockland,3594098
+Florida,Pinellas,3512885
+Illinois,Lake,3448656
+Connecticut,New Haven,3347249
+Louisiana,Jefferson,3280799
+Ohio,Cuyahoga,3272814
+California,Sacramento,3263308
+Florida,Lee,3262588
+Utah,Utah,3259499
+California,Santa Clara,3250450
+Connecticut,Hartford,3228166
+California,Alameda,3226674
+Massachusetts,Worcester,3187362
+Michigan,Macomb,3150737
+Georgia,Cobb,3142883
+Maryland,Baltimore,3139642
+Nebraska,Douglas,3119813
+Alabama,Jefferson,3087600
+Georgia,DeKalb,3082698
+Texas,Cameron,3069284
+District of Columbia,District of Columbia,2965627
+Florida,Polk,2952497
+Oklahoma,Oklahoma,2939286
+Illinois,Will,2917708
+Kentucky,Jefferson,2888317
+California,San Joaquin,2873386
+Colorado,Denver,2870390
+Iowa,Polk,2849704
+North Carolina,Wake,2835288
+New Jersey,Ocean,2829034
+Texas,Nueces,2814256
+New York,Orange,2785966
+Maryland,Baltimore city,2782522
+Illinois,Kane,2722339
+Oklahoma,Tulsa,2707300
+New Jersey,Monmouth,2618784
+Ohio,Hamilton,2523410
+Louisiana,Orleans,2521615
+Pennsylvania,Montgomery,2502829
+Louisiana,East Baton Rouge,2459429
+California,Contra Costa,2417248
+Texas,Fort Bend,2409215
+California,Tulare,2393617
+South Carolina,Greenville,2381306
+California,Stanislaus,2381016
+Massachusetts,Norfolk,2370102
+South Carolina,Charleston,2358576
+New York,Erie,2337606
+Pennsylvania,Delaware,2310561
+Massachusetts,Bristol,2244510
+Michigan,Kent,2236893
+Virginia,Prince William,2233238
+Texas,Collin,2228469
+Indiana,Lake,2214282
+Massachusetts,Plymouth,2188979
+South Carolina,Richland,2183788
+Alabama,Mobile,2174208
+Pennsylvania,Allegheny,2161624
+Idaho,Ada,2148289
+Washington,Yakima,2141081
+New Jersey,Camden,2125203
+Texas,Lubbock,2120524
+Arizona,Yuma,2106204
+Minnesota,Ramsey,2091078
+Colorado,Arapahoe,2086112
+Florida,Collier,2041553
+Texas,Denton,2040478
+Colorado,Adams,2028063
+California,Imperial,1966133
+California,Ventura,1932465
+New Jersey,Mercer,1907041
+Texas,Webb,1906277
+Delaware,New Castle,1902267
+Florida,Osceola,1891178
+Kansas,Johnson,1874257
+Massachusetts,Hampden,1868860
+Missouri,Kansas City,1863085
+New Jersey,Morris,1861872
+Florida,Escambia,1824170
+Florida,Manatee,1819214
+Pennsylvania,Bucks,1815259
+Maryland,Anne Arundel,1813193
+Texas,Galveston,1789851
+Wisconsin,Dane,1779767
+California,San Francisco,1768986
+Nevada,Washoe,1740195
+Wisconsin,Brown,1739406
+Arizona,Pinal,1712919
+Texas,Montgomery,1685755
+South Carolina,Horry,1666418
+Florida,Volusia,1654288
+Kansas,Sedgwick,1647427
+Texas,Brazoria,1615652
+Washington,Pierce,1601538
+Washington,Snohomish,1600529
+Wisconsin,Waukesha,1599681
+Tennessee,Rutherford,1586466
+Colorado,El Paso,1581868
+Tennessee,Hamilton,1574930
+California,San Mateo,1567082
+South Dakota,Minnehaha,1554184
+Pennsylvania,Lancaster,1532532
+New Mexico,Bernalillo,1520109
+New Jersey,Burlington,1517383
+Tennessee,Knox,1505148
+Georgia,Hall,1497828
+Louisiana,Caddo,1497373
+Arkansas,Washington,1490277
+Pennsylvania,Berks,1479422
+Arkansas,Pulaski,1474814
+North Carolina,Guilford,1467197
+Alabama,Montgomery,1458963
+Florida,Pasco,1437218
+Ohio,Montgomery,1427094
+California,Monterey,1425785
+California,Santa Barbara,1424133
+Missouri,St. Charles,1413322
+Florida,Brevard,1412897
+Florida,Seminole,1405763
+Hawaii,Honolulu,1402107
+Minnesota,Dakota,1400597
+Florida,Leon,1397622
+Texas,Williamson,1383982
+Louisiana,Lafayette,1372989
+Delaware,Sussex,1371989
+Indiana,Elkhart,1346040
+Ohio,Lucas,1340204
+Illinois,Winnebago,1339847
+Florida,Marion,1331389
+North Carolina,Durham,1331110
+Colorado,Jefferson,1328701
+New Jersey,Somerset,1305241
+Oregon,Multnomah,1302148
+Kentucky,Fayette,1297922
+Minnesota,Anoka,1292637
+Florida,Sarasota,1291333
+Idaho,Canyon,1286359
+New York,Monroe,1285243
+Indiana,Allen,1281168
+Pennsylvania,Chester,1274339
+Pennsylvania,Lehigh,1255821
+Indiana,St. Joseph,1246038
+Missouri,St. Louis city,1245424
+Alabama,Tuscaloosa,1238714
+Missouri,Jackson,1236951
+North Carolina,Forsyth,1236464
+California,Merced,1230213
+Texas,McLennan,1226023
+Illinois,St. Clair,1219192
+Virginia,Loudoun,1215483
+Alabama,Madison,1210469
+Georgia,Chatham,1207230
+Louisiana,Calcasieu,1205697
+Washington,Spokane,1200312
+Florida,St. Lucie,1187157
+Kansas,Wyandotte,1178543
+Louisiana,St. Tammany,1165440
+Georgia,Clayton,1162600
+Florida,Alachua,1161954
+Texas,Jefferson,1157161
+California,Kings,1150812
+South Carolina,Lexington,1148754
+Wisconsin,Racine,1140516
+Nebraska,Lancaster,1139717
+Mississippi,Hinds,1133146
+North Dakota,Cass,1128941
+New York,Dutchess,1113575
+Arkansas,Benton,1110533
+California,Sonoma,1108516
+Florida,Lake,1105029
+Puerto Rico,San Juan,1099512
+Texas,Potter,1097382
+South Carolina,Spartanburg,1092003
+Michigan,Genesee,1089288
+Ohio,Butler,1086202
+Colorado,Weld,1077360
+Texas,Brazos,1072768
+Iowa,Woodbury,1061109
+Arizona,Navajo,1060883
+Virginia,Virginia Beach city,1055613
+Louisiana,Ouachita,1049108
+Ohio,Summit,1046112
+Georgia,Richmond,1040279
+Utah,Davis,1031339
+Virginia,Chesterfield,1019708
+California,Marin,1011614
+Illinois,McHenry,1000026
+Pennsylvania,Northampton,996977
+California,Solano,983418
+Missouri,Greene,978606
+Georgia,Cherokee,967187
+Oklahoma,Cleveland,963893
+Indiana,Hamilton,952775
+Texas,Hays,952545
+Illinois,Madison,951293
+Pennsylvania,Luzerne,948719
+Virginia,Henrico,942731
+New Hampshire,Hillsborough,932624
+Minnesota,Stearns,931021
+New York,Onondaga,928533
+Alabama,Shelby,925865
+Tennessee,Williamson,923829
+Georgia,Muscogee,918524
+Mississippi,DeSoto,912279
+Maryland,Howard,911027
+Iowa,Black Hawk,910414
+Alaska,Anchorage,901386
+New Jersey,Gloucester,888749
+Michigan,Washtenaw,884762
+Wisconsin,Outagamie,872700
+New Mexico,McKinley,869589
+Iowa,Linn,868666
+North Carolina,Gaston,863547
+Tennessee,Sumner,858545
+Georgia,Bibb,858448
+Florida,Bay,856356
+South Carolina,York,855621
+Georgia,Henry,854923
+North Carolina,Cumberland,850373
+New Jersey,Atlantic,850244
+Texas,Bell,849378
+Pennsylvania,York,844916
+Wisconsin,Winnebago,831088
+Washington,Benton,826252
+Alabama,Baldwin,825734
+Alabama,Lee,823834
+Utah,Weber,819435
+Florida,St. Johns,819215
+South Carolina,Beaufort,818333
+Oregon,Washington,814011
+South Carolina,Berkeley,813475
+Oregon,Marion,807946
+Minnesota,Washington,804652
+Texas,Ector,801583
+New Mexico,Doña Ana,782796
+Iowa,Johnson,782683
+Florida,Okaloosa,778110
+Wisconsin,Kenosha,776627
+Florida,Martin,772321
+Maryland,Frederick,771216
+Virginia,Richmond city,769462
+Florida,Santa Rosa,768823
+Texas,Smith,767825
+North Carolina,Union,759444
+Virginia,Arlington,759155
+Florida,Clay,758094
+Colorado,Boulder,758055
+Illinois,Champaign,751871
+North Carolina,Johnston,748822
+Michigan,Ottawa,745641
+South Carolina,Florence,744176
+Nebraska,Sarpy,741478
+Arizona,Coconino,741103
+Washington,Franklin,739096
+Georgia,Whitfield,736402
+Missouri,Jefferson,736212
+New Jersey,Cumberland,734635
+Louisiana,Tangipahoa,732697
+North Carolina,Robeson,732066
+Virginia,Norfolk city,727808
+Pennsylvania,Dauphin,726044
+Georgia,Clarke,716001
+Ohio,Marion,710175
+Kentucky,Warren,709804
+Virginia,Alexandria city,699117
+Missouri,Boone,692973
+North Carolina,Pitt,692005
+Louisiana,Rapides,689796
+Indiana,Vanderburgh,681486
+North Dakota,Burleigh,679607
+New Mexico,San Juan,672025
+Rhode Island,Unknown,669593
+South Carolina,Anderson,669530
+Ohio,Mahoning,666509
+Alabama,Marshall,664218
+Georgia,Lowndes,662457
+Texas,Ellis,660697
+Arizona,Apache,660237
+Guam,Unknown,657603
+Virginia,Chesapeake city,656252
+Texas,Randall,655149
+Utah,Washington,651716
+New York,Albany,646226
+North Carolina,Cabarrus,645585
+North Carolina,Alamance,637677
+North Carolina,New Hanover,636744
+Mississippi,Harrison,636650
+Iowa,Scott,636628
+Michigan,Jackson,635268
+Montana,Yellowstone,634038
+Texas,Tom Green,633404
+Arizona,Mohave,632806
+Georgia,Forsyth,628777
+North Carolina,Wayne,627730
+Georgia,Dougherty,625505
+Louisiana,Ascension,624215
+Texas,Midland,624173
+South Carolina,Dorchester,620428
+Texas,Walker,619674
+Michigan,Kalamazoo,617917
+Michigan,Saginaw,616141
+California,Madera,615772
+Wisconsin,Rock,614320
+Washington,Clark,613902
+Colorado,Douglas,612430
+Ohio,Stark,610291
+Iowa,Dubuque,609291
+Tennessee,Wilson,608648
+Michigan,Ingham,608318
+Texas,Victoria,603518
+Louisiana,Livingston,597973
+Illinois,Kankakee,591856
+Georgia,Douglas,590756
+Illinois,Rock Island,590577
+Ohio,Pickaway,590096
+Louisiana,Lafourche,589569
+Georgia,Columbia,584016
+Illinois,Peoria,581040
+Ohio,Warren,579745
+Louisiana,Terrebonne,576470
+Mississippi,Jackson,571883
+Colorado,Larimer,569434
+Arkansas,Sebastian,569015
+Delaware,Kent,567111
+Alabama,Morgan,566859
+North Carolina,Rowan,564237
+California,Placer,558036
+Kansas,Ford,558006
+Indiana,Hendricks,557339
+Louisiana,Bossier,555525
+Texas,Taylor,553781
+Utah,Cache,550956
+Pennsylvania,Lackawanna,550112
+Alabama,Etowah,549280
+California,San Luis Obispo,546150
+North Carolina,Catawba,545339
+South Carolina,Aiken,545022
+Mississippi,Madison,543550
+Wisconsin,Washington,539830
+Illinois,Sangamon,537368
+Mississippi,Rankin,534602
+Iowa,Dallas,533555
+Florida,Columbia,532744
+Indiana,Johnson,531933
+Maryland,Harford,530681
+Puerto Rico,Bayamon,530230
+Pennsylvania,Westmoreland,527382
+Tennessee,Putnam,525778
+Alabama,Calhoun,522539
+Tennessee,Montgomery,519881
+Indiana,Tippecanoe,516578
+North Carolina,Randolph,514770
+South Carolina,Pickens,512706
+Louisiana,St. Landry,512501
+Texas,Maverick,509882
+Georgia,Carroll,506083
+Georgia,Glynn,505916
+Iowa,Story,503824
+Illinois,McLean,502318
+Michigan,Muskegon,501844
+Texas,Starr,501073
+Florida,Indian River,500976
+South Carolina,Sumter,500955
+Indiana,Porter,498932
+Minnesota,Scott,498891
+Kansas,Shawnee,498559
+Texas,Comal,498010
+Arkansas,Craighead,497978
+Maryland,Charles,496539
+Florida,Charlotte,494047
+Idaho,Kootenai,494042
+North Carolina,Buncombe,492059
+Massachusetts,Unknown,491556
+New York,Ulster,490961
+Minnesota,Olmsted,490727
+Georgia,Bartow,489176
+Georgia,Houston,489073
+Arizona,Santa Cruz,488293
+Arkansas,Jefferson,487143
+Wisconsin,La Crosse,486373
+Ohio,Lorain,486093
+New York,Oneida,484723
+Wisconsin,Marathon,483519
+Connecticut,New London,481996
+South Dakota,Pennington,481545
+North Carolina,Iredell,479664
+Georgia,Floyd,478918
+Georgia,Troup,478437
+Nebraska,Hall,477205
+Wisconsin,Fond du Lac,474572
+Kansas,Finney,474203
+North Carolina,Davidson,473540
+Georgia,Unknown,473025
+Texas,Kaufman,471372
+Wisconsin,Sheboygan,470867
+Idaho,Twin Falls,470191
+Louisiana,Acadia,470146
+Idaho,Bonneville,469519
+Wisconsin,Walworth,469163
+Maine,Cumberland,465768
+Texas,Johnson,463561
+North Dakota,Grand Forks,461689
+Georgia,Coweta,461581
+Nebraska,Dakota,461288
+Florida,Hernando,461077
+Tennessee,Bradley,460632
+Wisconsin,Dodge,460518
+New Hampshire,Rockingham,459064
+Pennsylvania,Lebanon,458238
+South Carolina,Orangeburg,457583
+Georgia,Paulding,454500
+Louisiana,Iberia,453967
+Missouri,Buchanan,452662
+Alabama,Houston,452398
+Oregon,Umatilla,450082
+Washington,Grant,447078
+Oregon,Clackamas,443315
+Illinois,Kendall,442116
+Texas,Guadalupe,441234
+Michigan,Berrien,438075
+Arizona,Yavapai,435296
+Indiana,Cass,433854
+Connecticut,Litchfield,433649
+Alabama,DeKalb,431194
+California,Yolo,430259
+Mississippi,Lee,429824
+Tennessee,Sevier,429360
+Oklahoma,Canadian,428468
+Texas,Anderson,424733
+Minnesota,Nobles,423528
+Alabama,Elmore,422634
+North Carolina,Duplin,421663
+Rhode Island,Kent,419376
+Tennessee,Madison,418949
+Iowa,Pottawattamie,418792
+Texas,Gregg,418055
+Puerto Rico,Carolina,417229
+Mississippi,Jones,415094
+Mississippi,Forrest,414046
+Pennsylvania,Monroe,412614
+Georgia,Newton,411782
+Virginia,Newport News city,411677
+Indiana,Clark,409115
+Ohio,Delaware,406616
+Texas,Wichita,405164
+Ohio,Trumbull,404814
+Tennessee,Maury,403435
+Massachusetts,Barnstable,402968
+Kansas,Leavenworth,402910
+Kentucky,Kenton,402517
+Tennessee,Sullivan,402155
+West Virginia,Kanawha,400957
+North Carolina,Orange,400758
+Tennessee,Washington,400266
+Tennessee,Blount,399962
+Florida,Jackson,399907
+Florida,Citrus,399352
+Ohio,Fairfield,392656
+New York,Broome,391958
+Wisconsin,Eau Claire,388690
+Arkansas,Faulkner,388257
+Virginia,Harrisonburg city,387897
+Florida,Gadsden,385542
+Iowa,Buena Vista,381982
+Texas,Angelina,381679
+Georgia,Bulloch,381280
+Alabama,Walker,379886
+North Carolina,Burke,378609
+Florida,Suwannee,378374
+North Carolina,Wilson,377945
+Indiana,Monroe,377506
+Minnesota,Wright,377372
+Pennsylvania,Centre,377262
+Montana,Gallatin,376963
+Minnesota,St. Louis,375554
+Ohio,Licking,375457
+Missouri,Jasper,374928
+Ohio,Lake,374749
+Pennsylvania,Cumberland,374298
+North Carolina,Nash,374023
+Ohio,Columbiana,373685
+New York,Niagara,372232
+Virginia,Portsmouth city,371832
+Tennessee,Robertson,370937
+Maryland,Carroll,370033
+Mississippi,Lauderdale,368534
+Maryland,Wicomico,367715
+Connecticut,Middlesex,365688
+North Carolina,Sampson,365671
+Indiana,Madison,365393
+Alabama,St. Clair,365100
+Ohio,Clark,364151
+North Carolina,Onslow,362793
+California,Butte,362371
+New York,Putnam,362292
+California,Santa Cruz,361204
+Iowa,Marshall,358455
+Pennsylvania,Franklin,358302
+North Carolina,Harnett,358042
+New York,Sullivan,355578
+Indiana,Delaware,354797
+Virginia,Manassas city,354004
+Ohio,Clermont,352428
+Virginia,Spotsylvania,352281
+Virginia,Stafford,351643
+Michigan,Calhoun,351459
+Tennessee,Trousdale,351359
+Alabama,Limestone,351101
+Florida,Sumter,349811
+Arkansas,Lincoln,349165
+Illinois,Macon,348949
+North Carolina,Cleveland,348588
+Indiana,Vigo,347074
+Pennsylvania,Beaver,344403
+Arkansas,Saline,342672
+Mississippi,Washington,342654
+New Jersey,Sussex,341382
+Georgia,Barrow,339933
+Georgia,Colquitt,338973
+Florida,Hendry,336612
+Colorado,Pueblo,335996
+Alabama,Cullman,335573
+Ohio,Wood,335440
+Arkansas,Pope,334467
+Illinois,Tazewell,333905
+Florida,Highlands,333847
+North Carolina,Henderson,333732
+Illinois,DeKalb,333277
+Louisiana,St. Martin,332521
+New Jersey,Warren,332271
+Texas,Grayson,332163
+Illinois,LaSalle,330726
+Michigan,Livingston,330106
+Kansas,Douglas,329250
+Michigan,Monroe,329230
+Arkansas,Crittenden,328053
+Georgia,Coffee,327262
+Missouri,Clay,326917
+South Carolina,Kershaw,326587
+New Mexico,Sandoval,325391
+South Carolina,Greenwood,324741
+Texas,Val Verde,324686
+Kansas,Seward,324555
+Missouri,Cape Girardeau,324340
+Arizona,Cochise,323640
+Indiana,LaPorte,323243
+Texas,Hale,322729
+Louisiana,St. Charles,321992
+South Carolina,Lancaster,321582
+Alabama,Talladega,321110
+Missouri,St. Francois,320943
+Tennessee,Tipton,320242
+Pennsylvania,Erie,319586
+Kentucky,Boone,318766
+Missouri,Cole,318367
+Maryland,Washington,318345
+Washington,Chelan,317728
+North Dakota,Ward,315811
+Michigan,Branch,314609
+Oklahoma,Payne,314405
+Florida,Walton,313901
+Wisconsin,Jefferson,311920
+Louisiana,St. John the Baptist,311607
+South Dakota,Lincoln,311308
+Illinois,Unknown,310908
+South Carolina,Darlington,310589
+Texas,Parker,308802
+Florida,Putnam,308778
+Alabama,Lauderdale,308034
+Michigan,Lenawee,307543
+Minnesota,Clay,307402
+Virginia,Roanoke city,307216
+Ohio,Greene,306386
+Montana,Flathead,306069
+Oklahoma,Comanche,305182
+Ohio,Medina,304799
+New Jersey,Hunterdon,304732
+Georgia,Baldwin,304166
+Georgia,Gordon,303655
+Tennessee,Hamblen,303067
+Georgia,Jackson,302788
+Georgia,Walton,302392
+Arkansas,Hot Spring,301876
+Florida,Monroe,301485
+Georgia,Fayette,300792
+Alabama,Franklin,300772
+North Carolina,Chatham,300428
+Mississippi,Lafayette,300139
+Wisconsin,Ozaukee,300055
+Missouri,Franklin,299968
+Ohio,Allen,299343
+Florida,Nassau,298822
+Georgia,Rockdale,298662
+Virginia,Suffolk city,298641
+Louisiana,St. Mary,298121
+Arkansas,Garland,298035
+South Carolina,Georgetown,296865
+North Carolina,Caldwell,296547
+Ohio,Miami,296384
+Connecticut,Tolland,290958
+Georgia,Tift,290861
+Oklahoma,Rogers,290780
+Pennsylvania,Schuylkill,290144
+North Carolina,Granville,289628
+North Carolina,Lee,288210
+Mississippi,Neshoba,287790
+Louisiana,Vermilion,286724
+Puerto Rico,Unknown,286314
+Arkansas,Unknown,285368
+Mississippi,Lamar,284555
+North Carolina,Stanly,284160
+Alabama,Dallas,283558
+Indiana,Kosciusko,283536
+Oklahoma,Texas,282417
+Minnesota,Rice,282242
+Wisconsin,Manitowoc,281950
+Texas,Liberty,281841
+Minnesota,Blue Earth,281243
+West Virginia,Monongalia,280354
+Texas,Orange,280042
+Wisconsin,Unknown,278999
+North Carolina,Brunswick,278888
+Minnesota,Sherburne,277289
+Alabama,Colbert,276821
+Virginia,Hampton city,276547
+Alabama,Autauga,276518
+Massachusetts,Hampshire,276437
+Iowa,Sioux,275145
+Texas,Bastrop,274946
+Georgia,Ware,274581
+Louisiana,Washington,273806
+Georgia,Habersham,273562
+Wisconsin,Portage,273439
+North Carolina,Moore,271322
+New York,Schenectady,271077
+Minnesota,Carver,270170
+Oklahoma,Muskogee,268441
+Alabama,Russell,267963
+Mississippi,Oktibbeha,266496
+Arkansas,St. Francis,265950
+Michigan,St. Clair,265823
+Virginia,Montgomery,264966
+Pennsylvania,Washington,264741
+North Carolina,Lincoln,263884
+California,Napa,263310
+Indiana,Howard,262177
+Arkansas,Mississippi,261756
+Illinois,Boone,261702
+Texas,Hunt,261628
+Florida,Flagler,261605
+Puerto Rico,Guaynabo,261568
+Alabama,Jackson,261441
+Colorado,Eagle,260843
+New Mexico,Lea,260402
+South Carolina,Laurens,260212
+Mississippi,Bolivar,260025
+South Carolina,Oconee,259623
+Missouri,Cass,258461
+Kentucky,Daviess,258378
+Louisiana,Iberville,257586
+Florida,DeSoto,255589
+Kentucky,Madison,254981
+Texas,Rockwall,252859
+Georgia,Laurens,252672
+Texas,Titus,252652
+Indiana,Floyd,252496
+North Carolina,Craven,252277
+California,Sutter,251074
+Indiana,Bartholomew,250837
+Virginia,Rockingham,250625
+Louisiana,St. Bernard,250476
+Ohio,Portage,249912
+Minnesota,Kandiyohi,249809
+Oregon,Lane,249671
+Oklahoma,Garfield,248698
+New Mexico,Santa Fe,247414
+Wisconsin,Waupaca,246835
+Minnesota,Mower,246793
+Kentucky,Hardin,246382
+Puerto Rico,Caguas,246102
+Kansas,Riley,246037
+Wisconsin,Calumet,245692
+Missouri,Christian,245380
+Texas,Navarro,245334
+Idaho,Bannock,244750
+Texas,Coryell,244182
+Alabama,Blount,244029
+Louisiana,Allen,243864
+Iowa,Muscatine,243709
+Illinois,Adams,243684
+Washington,Whatcom,243540
+Nebraska,Platte,242980
+Iowa,Wapello,242782
+Pennsylvania,Butler,242350
+Tennessee,Gibson,242251
+Mississippi,Lowndes,242163
+Tennessee,Bedford,241673
+Texas,Nacogdoches,241396
+Georgia,Thomas,241260
+Louisiana,Unknown,240283
+Nebraska,Dawson,239638
+Kansas,Reno,239597
+North Carolina,Columbus,239337
+Missouri,Newton,239189
+Georgia,Spalding,238799
+Indiana,Grant,238727
+New Mexico,Otero,237905
+North Carolina,Wilkes,237811
+North Carolina,Surry,237775
+New Mexico,Chaves,237459
+Nebraska,Dodge,237378
+Virginia,Culpeper,236359
+Michigan,Bay,236016
+Tennessee,Dyer,235946
+Indiana,Shelby,235510
+Virginia,Accomack,235243
+Iowa,Webster,235109
+Oklahoma,Wagoner,234861
+Indiana,Wayne,234617
+Texas,Moore,234300
+Tennessee,Hardeman,232489
+Texas,Bowie,231112
+Wisconsin,St. Croix,230876
+Indiana,Warrick,230866
+North Dakota,Morton,230655
+North Dakota,Stark,230628
+South Dakota,Brown,229470
+Maryland,St. Mary's,228680
+Alabama,Escambia,228441
+Mississippi,Leflore,228230
+Illinois,Coles,227494
+Arizona,Gila,227481
+Louisiana,Avoyelles,226742
+Ohio,Tuscarawas,226169
+Wyoming,Laramie,225885
+Georgia,Walker,225782
+Oklahoma,Pottawatomie,225570
+Texas,Bee,225268
+Washington,Thurston,224724
+Missouri,Joplin,224337
+Alabama,Coffee,224028
+California,Shasta,223704
+Texas,Caldwell,223661
+Mississippi,Panola,222449
+Arkansas,Crawford,222208
+Alabama,Chilton,221947
+Florida,Okeechobee,221545
+North Carolina,Edgecombe,221466
+Mississippi,Scott,221410
+Illinois,Williamson,221122
+Kentucky,Christian,221074
+Oregon,Malheur,220882
+Georgia,Polk,220825
+Louisiana,East Feliciana,220597
+Alaska,Fairbanks North Star Borough,220114
+Florida,Unknown,219497
+Montana,Missoula,218204
+Georgia,Chattahoochee,217995
+West Virginia,Berkeley,217828
+Alabama,Dale,216778
+Mississippi,Warren,216522
+Alabama,Covington,214589
+North Carolina,Rockingham,214429
+Mississippi,Sunflower,214030
+Ohio,Wayne,214017
+Indiana,Marshall,213520
+Oregon,Jackson,213045
+Virginia,Lynchburg city,212455
+Nebraska,Buffalo,212267
+Alabama,Chambers,212159
+Utah,Summit,212072
+Alabama,Tallapoosa,211792
+New York,Saratoga,211704
+Illinois,Jackson,211536
+Washington,Skagit,211339
+Tennessee,Dickson,210572
+Colorado,Mesa,210552
+Virginia,Hanover,210532
+Louisiana,Lincoln,210263
+Michigan,Lapeer,209601
+North Carolina,Rutherford,209459
+New Jersey,Salem,209331
+Illinois,Clinton,208995
+Idaho,Madison,208960
+Oklahoma,McCurtain,208647
+Texas,Cherokee,207860
+Connecticut,Windham,207449
+Ohio,Mercer,207100
+Georgia,Effingham,206986
+Kansas,Lyon,206197
+Maine,York,206112
+Puerto Rico,Toa Baja,205670
+Arkansas,Sevier,205657
+Wisconsin,Shawano,205591
+Texas,Lamar,205515
+Wisconsin,Grant,205149
+Texas,Chambers,205066
+Wisconsin,Sauk,205056
+New Jersey,Cape May,204193
+Ohio,Richland,204002
+Missouri,Pettis,203827
+Florida,Hardee,203476
+Indiana,Boone,203332
+Virginia,Albemarle,202944
+South Carolina,Williamsburg,202916
+Arkansas,Yell,202848
+Mississippi,Monroe,202806
+Mississippi,Copiah,202778
+Tennessee,Anderson,202717
+Michigan,Allegan,202665
+Montana,Cascade,202537
+Indiana,Hancock,202388
+Louisiana,Webster,201736
+Wisconsin,Wood,201645
+Iowa,Cerro Gordo,201070
+Washington,Kitsap,200751
+Tennessee,Coffee,199775
+Louisiana,Franklin,199705
+New Jersey,Unknown,199588
+Tennessee,Greene,198702
+Texas,San Patricio,198695
+Iowa,Crawford,198336
+Illinois,Whiteside,197671
+North Carolina,Franklin,197656
+Colorado,Logan,197507
+Iowa,Plymouth,197396
+Florida,Baker,197180
+Nebraska,Madison,197020
+Tennessee,Fayette,196956
+Tennessee,Loudon,196855
+Washington,Douglas,196767
+South Carolina,Newberry,196717
+Wisconsin,Chippewa,196202
+Mississippi,Pike,195653
+Mississippi,Lincoln,195589
+Texas,Hardin,195001
+Missouri,Taney,194935
+Louisiana,Jefferson Davis,194514
+Texas,Jim Wells,193957
+Wisconsin,Oconto,193516
+Iowa,Clinton,193142
+Kentucky,Shelby,192623
+Maryland,Cecil,192438
+North Carolina,Hoke,192421
+Rhode Island,Washington,191750
+Indiana,Noble,191383
+Puerto Rico,Toa Alta,191363
+Tennessee,McMinn,191192
+Tennessee,Obion,190472
+Tennessee,Cumberland,190317
+Mississippi,Pontotoc,190096
+Indiana,Dubois,189827
+Missouri,McDonald,189719
+Wyoming,Fremont,189522
+South Carolina,Chesterfield,189362
+Arkansas,Lonoke,189130
+Louisiana,Evangeline,189052
+Oklahoma,Creek,188768
+Wyoming,Natrona,188261
+Louisiana,Natchitoches,187804
+California,San Benito,187286
+Wisconsin,Marinette,186128
+New York,Rensselaer,186090
+Oklahoma,Washington,185442
+Georgia,Toombs,184738
+Mississippi,Holmes,184600
+Tennessee,Carter,184290
+Georgia,Sumter,183795
+Tennessee,Lawrence,183707
+Utah,Tooele,183561
+Texas,Wharton,183505
+Vermont,Chittenden,183412
+Illinois,Vermilion,183206
+Tennessee,Macon,183038
+Pennsylvania,Northumberland,182790
+Georgia,Catoosa,182192
+Mississippi,Yazoo,182049
+Alabama,Pike,182021
+North Carolina,Vance,181727
+Texas,Henderson,181588
+California,El Dorado,181302
+Iowa,Warren,181049
+Wisconsin,Columbia,181031
+Mississippi,Marshall,180824
+New Mexico,Curry,180566
+Georgia,Camden,179815
+Kentucky,Campbell,179726
+Mississippi,Leake,179596
+Indiana,Jackson,179588
+South Carolina,Clarendon,179364
+North Carolina,Lenoir,179240
+Virginia,Frederick,178076
+Tennessee,Bledsoe,177600
+North Carolina,Halifax,177594
+Virginia,Roanoke,177307
+Georgia,Decatur,176961
+North Dakota,Williams,176536
+Kentucky,Oldham,176109
+Colorado,Morgan,175623
+Florida,Taylor,175588
+Texas,Deaf Smith,175255
+Oklahoma,Grady,175231
+Tennessee,Jefferson,174965
+South Dakota,Beadle,173915
+Missouri,Johnson,173674
+South Carolina,Cherokee,173364
+Texas,Grimes,173355
+Colorado,Garfield,172532
+Texas,Medina,172471
+Arkansas,Lee,172459
+Nevada,Elko,172401
+Virginia,Charlottesville city,172264
+Illinois,Randolph,172224
+Oklahoma,Bryan,171860
+Tennessee,Lake,171143
+Michigan,Eaton,170889
+Tennessee,Wayne,170705
+Kentucky,Bullitt,170377
+Massachusetts,Berkshire,170324
+Kansas,Butler,170172
+Arkansas,Greene,169976
+Illinois,Ogle,169625
+Michigan,St. Joseph,169345
+Maryland,Calvert,169306
+Indiana,Henry,169260
+Mississippi,Grenada,168936
+Pennsylvania,Blair,168885
+Alabama,Clarke,168800
+Tennessee,Warren,168637
+Ohio,Ross,168472
+Ohio,Erie,168300
+Tennessee,Weakley,167443
+Nebraska,Colfax,167285
+Missouri,Scott,167025
+California,Yuba,166336
+Arkansas,White,166199
+Alabama,Butler,166101
+Oklahoma,Le Flore,166076
+Utah,Wasatch,165743
+South Carolina,Colleton,165616
+Puerto Rico,Trujillo Alto,165594
+Virginia,Henry,165387
+Mississippi,Coahoma,165273
+Kansas,Crawford,165180
+Idaho,Blaine,164438
+Louisiana,Union,164068
+Washington,Whitman,163996
+Iowa,Jasper,163516
+North Carolina,Richmond,163465
+North Carolina,Pender,163219
+Idaho,Bingham,163201
+Georgia,Wayne,162892
+Pennsylvania,Cambria,162889
+Kentucky,Muhlenberg,162853
+Mississippi,Simpson,162723
+Louisiana,Pointe Coupee,162648
+Virginia,Shenandoah,162487
+West Virginia,Cabell,162394
+Tennessee,Monroe,161861
+North Carolina,Scotland,161717
+Texas,Harrison,161508
+Michigan,Van Buren,161286
+Mississippi,Tate,161247
+South Carolina,Dillon,160715
+North Carolina,McDowell,160622
+Missouri,Camden,160523
+Georgia,Upson,160414
+Arkansas,Independence,160143
+Maryland,Worcester,159832
+Georgia,Liberty,159633
+Tennessee,Henderson,159567
+Virginia,Fauquier,159451
+Tennessee,Lauderdale,159304
+Indiana,Morgan,159212
+Georgia,Stephens,158947
+Texas,Polk,158833
+Oklahoma,McClain,158702
+Iowa,Des Moines,158645
+Michigan,Clinton,158519
+Oregon,Deschutes,158401
+Georgia,Bryan,158272
+Washington,Walla Walla,158158
+Georgia,Appling,157979
+Ohio,Geauga,157963
+Ohio,Darke,157932
+Kentucky,Laurel,157793
+Ohio,Belmont,157684
+Oklahoma,Cherokee,157633
+Pennsylvania,Adams,157363
+New Mexico,Eddy,157276
+Ohio,Ashtabula,157114
+Arkansas,Miller,156932
+Texas,Willacy,156607
+Pennsylvania,Columbia,156594
+Iowa,Tama,156449
+Florida,Wakulla,156281
+Nebraska,Saline,155960
+Alaska,Matanuska-Susitna Borough,155860
+Florida,Washington,155791
+Minnesota,Winona,155184
+New York,Chemung,155157
+Oklahoma,Osage,155153
+North Carolina,Montgomery,154914
+Louisiana,De Soto,154869
+Mississippi,Union,154432
+South Carolina,Chester,154414
+Mississippi,Wayne,153483
+Michigan,Unknown,152813
+Idaho,Cassia,152515
+Louisiana,Beauregard,152377
+Tennessee,Roane,152333
+Mississippi,Pearl River,152010
+Michigan,Marquette,151987
+Washington,Okanogan,151932
+Illinois,Knox,151220
+Mississippi,Adams,151122
+Texas,Matagorda,150271
+Kentucky,McCracken,150244
+Pennsylvania,Mercer,150009
+Louisiana,Vernon,149777
+Georgia,Mitchell,149757
+Indiana,Dearborn,148894
+New Mexico,Valencia,148739
+Tennessee,Hardin,148631
+Wisconsin,Barron,148488
+Michigan,Ionia,148022
+Minnesota,Crow Wing,147716
+South Dakota,Codington,147715
+Florida,Levy,147076
+Arizona,Graham,146717
+Michigan,Midland,146639
+Alabama,Marion,146470
+Louisiana,West Baton Rouge,146348
+Texas,Gonzales,146268
+Virginia,Pittsylvania,145951
+Florida,Lafayette,145886
+Missouri,Lincoln,145402
+Minnesota,Benton,145399
+Idaho,Jerome,145174
+Florida,Madison,145159
+Tennessee,Rhea,144584
+New Mexico,Cibola,144366
+Illinois,Grundy,144275
+Georgia,Murray,143749
+Louisiana,St. James,143558
+Texas,Jones,143339
+Kentucky,Henderson,143129
+Tennessee,Franklin,143047
+Colorado,Broomfield,142847
+Arkansas,Union,142813
+South Carolina,Marlboro,142807
+Oklahoma,Delaware,142786
+Illinois,Effingham,142650
+North Carolina,Bladen,142579
+Puerto Rico,Ponce,142577
+Ohio,Hancock,142380
+Tennessee,Haywood,142355
+Nebraska,Scotts Bluff,142346
+Georgia,Emanuel,141901
+Illinois,Stephenson,140815
+Pennsylvania,Fayette,140754
+Maine,Androscoggin,140710
+Kentucky,Hopkins,140704
+New Hampshire,Merrimack,140560
+Virginia,James City,140218
+Alabama,Barbour,140132
+Tennessee,Cheatham,140059
+Kansas,Ellis,139987
+Montana,Big Horn,139791
+Missouri,Callaway,139242
+Florida,Bradford,139109
+Texas,Hood,139092
+North Carolina,Beaufort,138857
+Texas,Atascosa,138694
+Ohio,Madison,138309
+Georgia,Lee,138203
+Tennessee,Hawkins,137898
+Alaska,Kenai Peninsula Borough,137820
+Pennsylvania,Indiana,137817
+Oklahoma,Caddo,137608
+Minnesota,Lyon,137374
+Georgia,Gilmer,137115
+Kentucky,Graves,137057
+Mississippi,Covington,136921
+Arkansas,Chicot,136610
+Wyoming,Albany,136585
+Minnesota,Chisago,136537
+Missouri,Saline,136480
+Kansas,Saline,136414
+Texas,Lavaca,136356
+South Dakota,Brookings,136231
+Oklahoma,Pittsburg,135692
+South Carolina,Marion,135687
+North Carolina,Yadkin,135680
+Utah,Iron,135557
+Virginia,Buckingham,135532
+Oklahoma,Okmulgee,134877
+Arkansas,Johnson,134875
+Puerto Rico,Vega Baja,134437
+Indiana,Clinton,134313
+Texas,DeWitt,134215
+Mississippi,Marion,134044
+Michigan,Isabella,133911
+Kentucky,Pulaski,133083
+Idaho,Minidoka,132842
+Pennsylvania,Lycoming,132183
+Oklahoma,Ottawa,132133
+Kentucky,Barren,131892
+Virginia,Danville city,131857
+Ohio,Auglaize,131794
+North Carolina,Watauga,131685
+Maryland,Allegany,131669
+Virginia,Bedford,131562
+Louisiana,Madison,131040
+California,Mendocino,130988
+Ohio,Putnam,130948
+Oklahoma,Sequoyah,130741
+Louisiana,Sabine,130670
+Florida,Hamilton,130669
+Alabama,Marengo,130625
+Louisiana,Assumption,130568
+Pennsylvania,Pike,130505
+Utah,San Juan,130453
+Oklahoma,Jackson,130425
+Ohio,Athens,130262
+Wisconsin,Trempealeau,130253
+Indiana,LaGrange,130089
+Idaho,Payette,129630
+Illinois,Henry,129447
+Texas,Brown,129315
+Mississippi,Newton,129275
+Georgia,Harris,129233
+California,Lassen,129116
+Louisiana,Richland,128765
+Mississippi,Itawamba,128419
+Oregon,Yamhill,128098
+Virginia,Prince George,127842
+Minnesota,Todd,127814
+Georgia,Oconee,127690
+New York,Columbia,127654
+Georgia,Burke,127530
+Tennessee,Carroll,126990
+Tennessee,White,126605
+Missouri,Butler,126154
+Kentucky,Scott,126112
+Wisconsin,Monroe,126080
+Illinois,Morgan,125751
+Illinois,Monroe,125535
+Indiana,Lawrence,125479
+Tennessee,Cocke,125332
+Georgia,Lumpkin,125329
+Texas,Rusk,124874
+Mississippi,Attala,124801
+Michigan,Cass,124772
+Texas,Erath,124729
+Mississippi,Prentiss,124638
+Utah,Box Elder,124246
+Mississippi,Winston,124003
+Louisiana,Plaquemines,123922
+New York,Steuben,123911
+Minnesota,Otter Tail,123908
+Tennessee,Marshall,123831
+Wisconsin,Dunn,123775
+Texas,Frio,123661
+Nebraska,Adams,123611
+Louisiana,Morehouse,123593
+South Carolina,Fairfield,123589
+Texas,Burnet,123173
+Missouri,Dunklin,123130
+Puerto Rico,Mayaguez,123085
+Michigan,Shiawassee,123041
+Texas,Kleberg,122270
+Texas,Wise,122232
+Iowa,Carroll,121953
+Pennsylvania,Lawrence,121905
+Virginia,Greensville,121671
+Iowa,Marion,121534
+Wisconsin,Pierce,121372
+North Carolina,Carteret,121260
+Texas,Scurry,121214
+Tennessee,McNairy,120994
+Texas,Waller,120823
+Washington,Adams,120788
+Georgia,Butts,120450
+Mississippi,Alcorn,120317
+Puerto Rico,Arecibo,120292
+Ohio,Muskingum,120183
+Illinois,Marion,120173
+Alabama,Winston,120114
+Missouri,Platte,119870
+Virginia,Petersburg city,119708
+Florida,Union,118843
+Mississippi,George,118760
+Ohio,Lawrence,118704
+Georgia,White,118062
+Alabama,Lowndes,117887
+Missouri,Nodaway,117811
+Hawaii,Hawaii,117568
+Georgia,Tattnall,117366
+Georgia,Pierce,117350
+South Carolina,Jasper,117235
+New Hampshire,Strafford,117108
+Michigan,Delta,116842
+Georgia,Grady,116733
+Nevada,Carson City,116714
+Georgia,Dawson,116633
+Illinois,Jefferson,116429
+South Carolina,Lee,116210
+Wyoming,Campbell,116134
+Florida,Gulf,115903
+Puerto Rico,Dorado,115831
+Texas,Van Zandt,115823
+Tennessee,Smith,115752
+Minnesota,Steele,115709
+Indiana,Harrison,115322
+Kentucky,Jessamine,115282
+Georgia,Franklin,115148
+Tennessee,Overton,114998
+Pennsylvania,Huntingdon,114893
+Texas,Wilson,114735
+Mississippi,Chickasaw,114509
+North Dakota,Stutsman,114406
+Wisconsin,Oneida,114404
+Virginia,Mecklenburg,114400
+Iowa,Henry,114198
+Indiana,Daviess,113776
+Arkansas,Poinsett,113428
+Iowa,Wright,113290
+Ohio,Shelby,113149
+Missouri,Polk,112796
+Texas,Howard,112631
+Washington,Cowlitz,112583
+Iowa,Lee,112568
+Georgia,Ben Hill,112520
+Alabama,Pickens,112409
+Florida,Holmes,112272
+Arkansas,Carroll,112194
+Missouri,Lawrence,112163
+Illinois,Bureau,112160
+Oklahoma,Custer,112150
+Texas,Karnes,112086
+North Carolina,Jackson,112086
+Missouri,Laclede,112017
+Kentucky,Nelson,111577
+Texas,Uvalde,111501
+Texas,Washington,111297
+Michigan,Tuscola,111078
+Georgia,Jefferson,110733
+Virginia,Manassas Park city,110376
+Maryland,Caroline,110359
+Alabama,Hale,110356
+Georgia,Monroe,110162
+Virginia,Isle of Wight,110157
+Mississippi,Tippah,109973
+Oklahoma,Woodward,109949
+Wisconsin,Clark,109852
+Idaho,Nez Perce,109807
+Georgia,Crisp,109660
+Tennessee,Johnson,109631
+Ohio,Sandusky,109423
+Indiana,Montgomery,109423
+Indiana,Fayette,109420
+North Carolina,Pasquotank,109057
+Texas,Calhoun,108983
+Maryland,Queen Anne's,108844
+Indiana,Decatur,108834
+Ohio,Union,108812
+Ohio,Scioto,108719
+Georgia,Washington,108654
+Rhode Island,Newport,108634
+Missouri,Pulaski,108493
+Florida,Dixie,108232
+Oklahoma,Mayes,108199
+Colorado,Summit,108065
+Kentucky,Calloway,107873
+Ohio,Huron,107737
+Missouri,Webster,107681
+Wyoming,Teton,107563
+Alabama,Bibb,107458
+Montana,Lewis and Clark,107433
+Arkansas,Boone,107372
+Georgia,Putnam,107106
+Virginia,Washington,107072
+Alabama,Randolph,107019
+Mississippi,Tallahatchie,106991
+Illinois,Franklin,106802
+Tennessee,Giles,106781
+Illinois,Macoupin,106707
+Nebraska,Lincoln,106634
+Louisiana,West Feliciana,106572
+Indiana,Gibson,106487
+Louisiana,Jackson,106378
+Minnesota,Freeborn,106163
+New York,Chautauqua,105831
+Oklahoma,Kay,105683
+Georgia,Chattooga,105560
+Missouri,Marion,105419
+Puerto Rico,Canovanas,105208
+Georgia,Jeff Davis,105186
+West Virginia,Wood,105150
+New York,Madison,104535
+Georgia,Madison,104441
+Tennessee,Lincoln,104364
+Pennsylvania,Carbon,104344
+Kentucky,Franklin,104117
+Indiana,DeKalb,103930
+Oklahoma,Carter,103618
+Missouri,Howell,103586
+Minnesota,Beltrami,103554
+Mississippi,Hancock,103541
+Georgia,Peach,103442
+South Carolina,Edgefield,103313
+Iowa,Washington,103306
+North Carolina,Hertford,103303
+Indiana,White,103160
+Missouri,Perry,102917
+North Carolina,Greene,102824
+Oregon,Linn,102808
+Kentucky,Logan,102670
+Minnesota,Nicollet,102591
+Georgia,Worth,102584
+New Mexico,Luna,102449
+Indiana,Putnam,102432
+Iowa,Dickinson,102424
+Texas,Madison,102348
+West Virginia,Putnam,102240
+South Carolina,Saluda,102167
+Iowa,Bremer,102078
+Louisiana,Winn,102002
+Indiana,Miami,101970
+Minnesota,Polk,101968
+New York,Ontario,101922
+Georgia,Elbert,101905
+North Carolina,Alexander,101744
+North Carolina,Macon,101736
+Alabama,Lawrence,101732
+Puerto Rico,Vega Alta,101637
+North Carolina,Davie,101610
+Michigan,Oceana,101545
+Wisconsin,Green,101357
+Iowa,Louisa,101222
+Virginia,Southampton,101131
+Kentucky,Pike,100873
+Indiana,Knox,100863
+Wisconsin,Kewaunee,100704
+South Dakota,Davison,100326
+Oklahoma,Adair,100180
+Alabama,Bullock,99892
+Missouri,Stoddard,99680
+California,Tehama,99650
+South Carolina,Barnwell,99355
+Maryland,Dorchester,98989
+Minnesota,Douglas,98988
+Tennessee,Henry,98957
+Mississippi,Tishomingo,98951
+Georgia,Union,98642
+Michigan,Grand Traverse,98631
+Illinois,Union,98311
+Tennessee,Campbell,98233
+Louisiana,East Carroll,97812
+Georgia,Pickens,97713
+Illinois,Christian,97684
+Alabama,Geneva,97474
+Virginia,Winchester city,96761
+Idaho,Jefferson,96740
+Mississippi,Clay,96629
+Georgia,Bacon,96239
+Ohio,Holmes,96207
+Illinois,Lee,96176
+Wisconsin,Douglas,96092
+Mississippi,Jasper,96045
+Nevada,Nye,95967
+Arizona,La Paz,95945
+Virginia,Prince Edward,95935
+Mississippi,Clarke,95815
+Minnesota,McLeod,95602
+Massachusetts,Franklin,95539
+Georgia,Fannin,95257
+South Dakota,Meade,95196
+Texas,Hill,94728
+Georgia,Early,94266
+Michigan,Barry,94134
+Wisconsin,Waushara,94050
+West Virginia,Jefferson,93672
+Illinois,Livingston,93593
+Virgin Islands,St. Thomas,93575
+Missouri,Audrain,93565
+North Carolina,Haywood,93480
+Missouri,Lafayette,93444
+Texas,Fannin,93349
+Mississippi,Noxubee,93318
+Oklahoma,Pontotoc,93297
+New York,Oswego,93269
+Michigan,Hillsdale,93104
+Ohio,Ottawa,93094
+Mississippi,Walthall,93072
+Georgia,McDuffie,92879
+Rhode Island,Bristol,92764
+Iowa,Jones,92759
+South Dakota,Lawrence,92734
+Oregon,Polk,92693
+Minnesota,Waseca,92685
+Ohio,Seneca,92530
+Iowa,Boone,92520
+Pennsylvania,Armstrong,92484
+Minnesota,Goodhue,92424
+Alabama,Monroe,92199
+Colorado,Fremont,91981
+Puerto Rico,Rio Grande,91820
+South Carolina,Hampton,91750
+Wisconsin,Juneau,91598
+Alabama,Washington,91297
+Missouri,Barry,91252
+South Carolina,Union,91219
+Georgia,Meriwether,91073
+West Virginia,Raleigh,90952
+Tennessee,DeKalb,90949
+Pennsylvania,Union,90933
+Michigan,Montcalm,90916
+Florida,Calhoun,90911
+Tennessee,Hickman,90900
+Illinois,McDonough,90743
+Idaho,Latah,90545
+Missouri,Warren,90498
+Puerto Rico,Naranjito,90370
+California,Nevada,90301
+Illinois,Iroquois,90282
+Alabama,Wilcox,90224
+Washington,Kittitas,90195
+Kentucky,Ohio,90013
+Michigan,Newaygo,89975
+Virginia,Augusta,89661
+Georgia,Cook,89652
+Georgia,Haralson,89567
+Minnesota,Morrison,89562
+South Dakota,Yankton,89466
+North Carolina,Anson,89401
+Indiana,Jasper,89401
+Puerto Rico,Corozal,89378
+South Carolina,Bamberg,89286
+South Carolina,Abbeville,89140
+Ohio,Preble,89140
+Missouri,New Madrid,89010
+Georgia,Charlton,88976
+Minnesota,Itasca,88911
+Kansas,Barton,88788
+Mississippi,Smith,88782
+Oklahoma,Logan,88579
+Tennessee,Crockett,88304
+Indiana,Steuben,88195
+North Carolina,Bertie,88096
+Alabama,Cherokee,87957
+Virginia,Radford city,87790
+Virginia,Fredericksburg city,87751
+South Dakota,Clay,87161
+Missouri,Phelps,87066
+Virginia,Franklin,86926
+Texas,Shelby,86839
+Oklahoma,Stephens,86715
+Indiana,Greene,86692
+Minnesota,Le Sueur,86631
+Wisconsin,Door,86623
+Louisiana,Bienville,86478
+Virginia,Warren,86449
+Maryland,Talbot,86257
+Georgia,Dodge,86203
+Kentucky,Boyd,86200
+Missouri,Miller,86169
+Virginia,York,86037
+Texas,Kerr,85683
+Illinois,Woodford,85593
+Kentucky,Knox,85589
+Kentucky,Bell,85343
+New York,Tompkins,85179
+Missouri,Pemiscot,85154
+Virginia,Carroll,85110
+Kansas,Harvey,84973
+South Dakota,Oglala Lakota,84916
+West Virginia,Logan,84763
+Tennessee,Marion,84762
+Arkansas,Lawrence,84501
+North Carolina,Cherokee,84400
+Oklahoma,Garvin,84243
+Florida,Liberty,84156
+Wisconsin,Polk,84088
+Puerto Rico,Gurabo,84015
+Alabama,Perry,83863
+South Dakota,Hughes,83758
+Mississippi,Calhoun,83752
+South Dakota,Union,83596
+Arkansas,Phillips,83340
+North Carolina,Stokes,83251
+California,Glenn,83223
+Michigan,Houghton,83157
+Wisconsin,Lincoln,83111
+Oklahoma,Seminole,83074
+Wyoming,Sweetwater,83070
+Louisiana,Concordia,83065
+West Virginia,Fayette,82987
+Florida,Franklin,82585
+Washington,Lewis,82452
+Minnesota,Becker,82386
+Tennessee,Chester,82355
+Georgia,Brooks,82126
+Iowa,Benton,81907
+Minnesota,Watonwan,81871
+Oklahoma,Lincoln,81851
+Alabama,Henry,81642
+West Virginia,Ohio,81625
+Kentucky,Whitley,81454
+Tennessee,Fentress,81371
+Alabama,Clay,81269
+Alabama,Conecuh,81214
+Arkansas,Jackson,80995
+Florida,Jefferson,80974
+Texas,Jackson,80945
+Illinois,Logan,80710
+Oregon,Lincoln,80707
+Indiana,Scott,80550
+Iowa,Delaware,80509
+Georgia,Jones,80460
+Florida,Glades,80374
+Alabama,Sumter,80361
+Texas,Palo Pinto,80331
+North Carolina,Northampton,80295
+Colorado,Montrose,80111
+Oregon,Jefferson,80063
+Minnesota,Martin,80054
+Puerto Rico,Humacao,79945
+Michigan,Gratiot,79826
+Iowa,Mahaska,79779
+Puerto Rico,Manati,79627
+Texas,Dawson,79625
+Wyoming,Sheridan,79375
+Indiana,Ripley,79372
+Alabama,Crenshaw,79325
+Virginia,Sussex,79269
+California,Humboldt,79248
+Texas,Wood,79147
+Indiana,Wabash,78959
+Alabama,Macon,78848
+Mississippi,Claiborne,78804
+Minnesota,Isanti,78752
+Oregon,Union,78734
+Georgia,Greene,78312
+West Virginia,Mercer,78307
+Illinois,Fayette,78268
+New York,Warren,78165
+West Virginia,Harrison,78101
+New York,Greene,78063
+Pennsylvania,Bradford,77968
+Puerto Rico,San Sebastian,77789
+New Mexico,Rio Arriba,77736
+Hawaii,Maui,77732
+Texas,Andrews,77696
+Virginia,Page,77611
+Minnesota,Carlton,77457
+Nebraska,Saunders,77388
+Nevada,Lyon,77296
+Texas,Hockley,77262
+New York,Genesee,77205
+Arkansas,Columbia,77032
+Virginia,Campbell,76988
+Florida,Gilchrist,76837
+Puerto Rico,Fajardo,76752
+Texas,Limestone,76397
+Wisconsin,Langlade,76374
+Indiana,Posey,76242
+Georgia,Morgan,76143
+Oklahoma,Beckham,76116
+Mississippi,Montgomery,76052
+Iowa,O'Brien,76029
+Pennsylvania,Crawford,75980
+Louisiana,Claiborne,75979
+Iowa,Jackson,75948
+Indiana,Adams,75834
+Kansas,Cowley,75543
+California,Lake,75541
+North Carolina,Martin,75484
+New York,Wayne,75343
+Mississippi,Lawrence,75218
+Georgia,Hart,75121
+Arkansas,Howard,75110
+North Carolina,Person,75101
+Texas,Parmer,74989
+Montana,Silver Bow,74918
+Ohio,Jefferson,74671
+Missouri,Washington,74587
+Georgia,Banks,74485
+New York,St. Lawrence,74210
+Mississippi,Yalobusha,74024
+Virginia,Wise,73990
+Michigan,Menominee,73923
+New York,Tioga,73877
+Texas,Gray,73859
+Wisconsin,Green Lake,73811
+Kentucky,Butler,73729
+Illinois,Douglas,73488
+West Virginia,Wayne,73382
+Missouri,Stone,72975
+Kansas,Cherokee,72869
+Ohio,Crawford,72807
+Puerto Rico,Morovis,72775
+California,Colusa,72762
+Louisiana,Grant,72625
+Georgia,Berrien,72531
+Puerto Rico,San Lorenzo,72525
+Ohio,Defiance,72308
+Ohio,Washington,72188
+Virginia,Galax city,72124
+Kansas,Montgomery,71902
+Illinois,Warren,71888
+Illinois,Shelby,71882
+New York,Orleans,71874
+Montana,Glacier,71796
+Virginia,Richmond,71749
+Georgia,Stewart,71740
+Arkansas,Randolph,71647
+Texas,Milam,71553
+Minnesota,Pine,71397
+Louisiana,LaSalle,71387
+Kentucky,Grayson,71325
+Kentucky,Adair,71324
+Mississippi,Tunica,71054
+Kentucky,Greenup,71034
+Tennessee,Decatur,71023
+Iowa,Hamilton,70970
+Texas,Panola,70862
+Oregon,Morrow,70855
+Montana,Rosebud,70792
+Indiana,Whitley,70748
+Illinois,Montgomery,70727
+Pennsylvania,Clearfield,70625
+Missouri,Adair,70376
+Georgia,Atkinson,70108
+Louisiana,Catahoula,70069
+Puerto Rico,Barranquitas,70013
+Ohio,Fulton,69952
+Washington,Grays Harbor,69898
+Arkansas,Ashley,69858
+Arkansas,Arkansas,69757
+Virginia,Smyth,69750
+Iowa,Clay,69692
+Washington,Island,69679
+Georgia,Brantley,69496
+Missouri,Moniteau,69316
+Wyoming,Uinta,69283
+Alabama,Fayette,69108
+Georgia,Hancock,69015
+Missouri,Cooper,68987
+Arkansas,Logan,68938
+Puerto Rico,Las Piedras,68938
+Illinois,Cass,68908
+Indiana,Jennings,68905
+Arkansas,Baxter,68868
+Georgia,Terrell,68844
+Kansas,Franklin,68538
+Montana,Roosevelt,68488
+Indiana,Wells,68364
+North Carolina,Caswell,68122
+Ohio,Logan,68024
+Virginia,Hopewell city,67944
+Indiana,Randolph,67899
+Nebraska,Cass,67887
+Georgia,Bleckley,67846
+Texas,Fayette,67726
+Texas,Colorado,67694
+Pennsylvania,Somerset,67641
+Arkansas,Cross,67593
+Georgia,Telfair,67456
+Mississippi,Carroll,67062
+Kansas,Geary,66966
+Illinois,Jersey,66943
+South Carolina,Calhoun,66881
+Georgia,Pike,66826
+Texas,Cooke,66664
+Puerto Rico,Aguadilla,66593
+Ohio,Knox,66524
+Michigan,Dickinson,66461
+Tennessee,Grainger,66449
+Connecticut,Unknown,66360
+Virgin Islands,St. Croix,66317
+Pennsylvania,Mifflin,65987
+New York,Fulton,65939
+Texas,Austin,65927
+Tennessee,Claiborne,65907
+Ohio,Clinton,65843
+Georgia,Lamar,65829
+Georgia,Dooly,65692
+Kentucky,Harlan,65679
+Arkansas,Hempstead,65515
+Wyoming,Park,65364
+Missouri,Crawford,65305
+Indiana,Clay,65215
+Kansas,McPherson,65214
+Puerto Rico,Yauco,65210
+Kentucky,Allen,65150
+Puerto Rico,Catano,64855
+Idaho,Elmore,64837
+Colorado,La Plata,64523
+Iowa,Hardin,64482
+Texas,Lamb,64466
+New York,Cattaraugus,64441
+Puerto Rico,Salinas,64425
+New York,Washington,64357
+Texas,Jasper,64336
+Pennsylvania,Bedford,64273
+Texas,Pecos,64191
+Kentucky,Perry,63992
+Indiana,Franklin,63931
+Texas,Hopkins,63845
+Virginia,Dinwiddie,63821
+Iowa,Poweshiek,63650
+Nebraska,Gage,63585
+Texas,Houston,63569
+Indiana,Huntington,63377
+North Dakota,Walsh,63360
+Georgia,Randolph,63300
+New York,Herkimer,63294
+Georgia,Candler,63183
+Illinois,Perry,63123
+West Virginia,Mingo,63037
+Mississippi,Perry,62748
+Georgia,Johnson,62730
+Wisconsin,Jackson,62649
+Colorado,Gunnison,62608
+Idaho,Gooding,62580
+Iowa,Harrison,62558
+Wisconsin,Lafayette,62521
+Montana,Hill,62431
+Virginia,Northampton,62336
+Illinois,Crawford,62255
+Kentucky,Clark,62196
+Arkansas,Cleburne,62149
+Indiana,Jefferson,62014
+Washington,Mason,61907
+Missouri,Morgan,61869
+Kentucky,Taylor,61869
+Oklahoma,Craig,61757
+Kansas,Miami,61662
+Alabama,Choctaw,61649
+Virginia,Amherst,61633
+North Carolina,Warren,61437
+Wisconsin,Marquette,61435
+Ohio,Morrow,61295
+Mississippi,Humphreys,61158
+Alaska,Juneau City and Borough,61059
+Nebraska,Washington,61050
+Illinois,Saline,61012
+Iowa,Buchanan,60926
+Kentucky,Clay,60900
+Arkansas,Madison,60672
+Puerto Rico,Cayey,60363
+Pennsylvania,Susquehanna,60324
+Colorado,Chaffee,60319
+Indiana,Orange,60150
+Mississippi,Stone,60076
+Louisiana,St. Helena,59974
+Indiana,Sullivan,59856
+Missouri,Randolph,59852
+Puerto Rico,Juncos,59823
+Iowa,Lyon,59810
+Ohio,Henry,59758
+Arkansas,Clark,59717
+North Dakota,Mountrail,59688
+Idaho,Washington,59615
+Iowa,Cedar,59612
+Texas,Gaines,59546
+Montana,Lake,59535
+Texas,Zavala,59362
+Virginia,Martinsville city,59212
+Indiana,Starke,59204
+Iowa,Floyd,59171
+Illinois,Jo Daviess,59124
+Wisconsin,Iowa,59036
+Idaho,Bonner,58877
+Georgia,Jenkins,58863
+Alabama,Lamar,58839
+Oklahoma,Kingfisher,58806
+South Dakota,Bon Homme,58763
+Ohio,Champaign,58685
+Texas,Upshur,58646
+Georgia,Evans,58605
+Tennessee,Polk,58601
+Ohio,Hardin,58397
+Virginia,Salem city,58381
+Ohio,Highland,58251
+West Virginia,Jackson,58239
+Mississippi,Greene,58237
+Ohio,Ashland,58217
+Louisiana,West Carroll,58185
+New York,Chenango,58067
+Virginia,Halifax,58066
+Illinois,Fulton,58052
+Wisconsin,Vilas,58042
+Texas,Cass,58039
+Minnesota,Mille Lacs,58020
+Texas,Young,57896
+Texas,Falls,57821
+Texas,Burleson,57801
+Kentucky,Marshall,57796
+Pennsylvania,Snyder,57782
+Maryland,Kent,57753
+Georgia,Turner,57631
+Ohio,Brown,57543
+Kentucky,Jackson,57509
+Iowa,Allamakee,57469
+Virginia,Orange,57389
+Indiana,Perry,57348
+Oregon,Klamath,57322
+North Carolina,Avery,57316
+Alabama,Cleburne,57302
+Iowa,Clayton,57271
+New Mexico,Roosevelt,57246
+Puerto Rico,Cabo Rojo,57191
+Georgia,Clinch,57141
+Iowa,Winneshiek,57111
+Oregon,Benton,56902
+Virginia,Botetourt,56869
+Mississippi,Jefferson Davis,56855
+Oklahoma,McIntosh,56854
+Virginia,Caroline,56769
+Ohio,Williams,56752
+Oklahoma,Choctaw,56556
+Georgia,Oglethorpe,56429
+Maine,Kennebec,56385
+Iowa,Franklin,56378
+West Virginia,Randolph,56331
+Georgia,Screven,56285
+Texas,Terry,56123
+Louisiana,Red River,56097
+Missouri,Mississippi,56035
+Michigan,Mecosta,56008
+Texas,Duval,55984
+Virginia,Franklin city,55952
+Wisconsin,Adams,55802
+Virginia,Tazewell,55694
+Arkansas,Drew,55690
+Virginia,Fluvanna,55465
+West Virginia,Marion,55347
+Puerto Rico,Moca,55342
+Tennessee,Grundy,55211
+Montana,Ravalli,55182
+Illinois,Bond,55167
+Kentucky,Montgomery,55142
+North Dakota,Richland,55118
+Ohio,Fayette,55089
+Kentucky,Boyle,54989
+North Dakota,Rolette,54900
+Nevada,Douglas,54897
+Idaho,Gem,54816
+Puerto Rico,Juana Diaz,54800
+Maryland,Somerset,54731
+Ohio,Coshocton,54724
+Alabama,Greene,54590
+Mississippi,Quitman,54515
+Indiana,Carroll,54491
+Mississippi,Kemper,54401
+New York,Cayuga,54322
+Kansas,Atchison,54298
+Mississippi,Amite,54291
+Tennessee,Union,54247
+North Dakota,Ramsey,54220
+North Dakota,McLean,54216
+Missouri,Texas,54138
+Iowa,Butler,54121
+Wisconsin,Taylor,54063
+Texas,Camp,53903
+Utah,Sanpete,53887
+Maine,Penobscot,53865
+Louisiana,Caldwell,53835
+Missouri,Livingston,53745
+Kentucky,Marion,53688
+Arkansas,Clay,53656
+Tennessee,Unicoi,53596
+Iowa,Kossuth,53587
+Wisconsin,Vernon,53537
+Ohio,Jackson,53413
+Indiana,Fulton,53410
+Idaho,Owyhee,53402
+Minnesota,Cass,53141
+Arkansas,Izard,53125
+Texas,Freestone,53112
+Virginia,Brunswick,53091
+Iowa,Shelby,53011
+Iowa,Winnebago,52982
+New York,Cortland,52935
+Virginia,Lee,52866
+Texas,La Salle,52806
+Minnesota,Brown,52801
+Kentucky,Floyd,52793
+Iowa,Emmet,52761
+Georgia,Rabun,52573
+Arkansas,Little River,52560
+Mississippi,Webster,52516
+North Dakota,Benson,52320
+Virginia,Louisa,52316
+Colorado,Alamosa,52234
+Minnesota,Meeker,52034
+Indiana,Washington,52008
+Puerto Rico,Orocovis,52001
+Tennessee,Benton,51908
+Puerto Rico,Lares,51888
+Iowa,Page,51803
+North Carolina,Chowan,51776
+Iowa,Fayette,51727
+Georgia,Seminole,51726
+South Carolina,Allendale,51715
+Ohio,Perry,51684
+West Virginia,Marshall,51395
+Illinois,Carroll,51352
+Missouri,Wright,51345
+Minnesota,Dodge,51238
+Puerto Rico,Cidra,51216
+New York,Otsego,51179
+Indiana,Jay,51178
+Nebraska,York,51144
+New York,Livingston,51025
+Michigan,Otsego,51005
+Georgia,Wilkinson,51002
+Indiana,Spencer,50917
+Arkansas,Franklin,50882
+North Carolina,Ashe,50862
+Tennessee,Jackson,50852
+Minnesota,Cottonwood,50816
+Iowa,Iowa,50747
+North Dakota,McKenzie,50470
+Minnesota,Chippewa,50251
+Kentucky,Woodford,50113
+Tennessee,Cannon,50090
+Tennessee,Scott,50060
+Iowa,Guthrie,49953
+Iowa,Mills,49949
+Missouri,Clinton,49935
+Oregon,Douglas,49790
+Arkansas,Polk,49758
+Kansas,Labette,49731
+Missouri,Bollinger,49631
+Mississippi,Wilkinson,49485
+Alaska,Bethel Census Area,49461
+Missouri,Benton,49365
+Virginia,Staunton city,49312
+Illinois,Wayne,49239
+North Carolina,Dare,49233
+Texas,Robertson,49222
+Iowa,Cherokee,49210
+Virginia,Russell,49156
+Tennessee,Morgan,49145
+Kentucky,Simpson,49117
+Missouri,Henry,48950
+Puerto Rico,Aguada,48845
+Virginia,Waynesboro city,48832
+Georgia,Towns,48630
+Texas,Live Oak,48518
+Kentucky,Russell,48403
+Ohio,Guernsey,48277
+Kansas,Jackson,48261
+Georgia,Lanier,48229
+Iowa,Calhoun,48226
+Arkansas,Desha,48072
+Kentucky,Union,48012
+Kansas,Grant,47977
+Pennsylvania,Wayne,47886
+Missouri,Ste. Genevieve,47831
+Nebraska,Thurston,47811
+Missouri,Madison,47800
+Virginia,Goochland,47741
+Georgia,Calhoun,47733
+Minnesota,Wabasha,47702
+Puerto Rico,Yabucoa,47363
+Iowa,Sac,47324
+Wisconsin,Crawford,47266
+Missouri,Andrew,47260
+Arkansas,Bradley,47240
+Iowa,Clarke,47206
+West Virginia,Mineral,47199
+Illinois,Moultrie,47189
+Nebraska,Seward,47094
+Oklahoma,Atoka,47055
+Virginia,Westmoreland,46919
+Georgia,Wilcox,46918
+Virginia,Colonial Heights city,46886
+Tennessee,Humphreys,46841
+Michigan,Iosco,46822
+Wisconsin,Forest,46778
+Texas,Kendall,46626
+Missouri,Pike,46569
+North Carolina,Transylvania,46553
+Oklahoma,Okfuskee,46543
+North Carolina,Polk,46509
+Virginia,Grayson,46453
+Puerto Rico,Guayama,46144
+California,Tuolumne,46050
+Kentucky,Casey,46049
+Iowa,Hancock,45951
+Texas,Zapata,45859
+Arkansas,Conway,45840
+Kansas,Norton,45809
+Kansas,Pottawatomie,45758
+Kentucky,Meade,45738
+Pennsylvania,Perry,45715
+Kentucky,Hart,45671
+Virginia,Nottoway,45600
+Michigan,Huron,45548
+Texas,Nolan,45353
+South Dakota,Charles Mix,45331
+Ohio,Wyandot,45302
+Illinois,Lawrence,45145
+Georgia,Irwin,45093
+Minnesota,Pipestone,45067
+Oregon,Wasco,45067
+Missouri,Osage,44977
+Texas,Bosque,44925
+North Dakota,Barnes,44895
+South Dakota,Todd,44885
+Puerto Rico,Hatillo,44883
+Puerto Rico,Coamo,44828
+Illinois,Hancock,44739
+Pennsylvania,Juniata,44690
+Puerto Rico,Camuy,44608
+Puerto Rico,Isabela,44565
+Georgia,Pulaski,44345
+Colorado,Pitkin,44315
+Minnesota,Unknown,44302
+Wisconsin,Sawyer,44159
+Texas,Gillespie,44040
+Georgia,Dade,44004
+Oklahoma,Pawnee,43974
+New York,Montgomery,43953
+Iowa,Madison,43901
+Kansas,Pawnee,43898
+Iowa,Grundy,43811
+Iowa,Chickasaw,43684
+Georgia,Echols,43681
+Texas,Dallam,43639
+Georgia,Macon,43631
+California,Calaveras,43586
+Puerto Rico,Florida,43584
+Michigan,Emmet,43479
+Texas,Castro,43469
+Arkansas,Sharp,43414
+Oklahoma,Hughes,43353
+South Dakota,Lake,43296
+Arkansas,Grant,43248
+Puerto Rico,Aguas Buenas,43204
+Georgia,Wilkes,43203
+Tennessee,Unknown,43159
+South Dakota,Turner,43151
+Indiana,Rush,43117
+Wisconsin,Richland,43103
+Missouri,Sullivan,43060
+Arkansas,Ouachita,42856
+New York,Allegany,42850
+Texas,Hutchinson,42834
+Georgia,Montgomery,42769
+Virginia,Emporia city,42697
+Georgia,Jasper,42598
+Minnesota,Hubbard,42419
+Iowa,Humboldt,42266
+California,Amador,42207
+Tennessee,Lewis,42135
+Idaho,Fremont,42015
+Kentucky,Rowan,41982
+Virginia,Wythe,41820
+Texas,Aransas,41689
+Michigan,Gogebic,41594
+New Mexico,Lincoln,41566
+Georgia,Wheeler,41559
+Virginia,Gloucester,41462
+Iowa,Cass,41415
+Minnesota,Roseau,41400
+Puerto Rico,Loiza,41366
+Georgia,Miller,41221
+Oklahoma,Haskell,41203
+Virginia,Scott,41203
+Arkansas,Stone,41156
+Illinois,Pike,41067
+Texas,Comanche,40899
+Georgia,McIntosh,40888
+Pennsylvania,Clinton,40819
+Ohio,Van Wert,40724
+Puerto Rico,Ciales,40698
+Oregon,Hood River,40571
+Indiana,Newton,40484
+Texas,Refugio,40423
+Texas,Brewster,40396
+Kansas,Nemaha,40375
+Kentucky,Monroe,40373
+North Dakota,Mercer,40284
+Indiana,Tipton,40207
+Texas,Bailey,40071
+Virginia,Patrick,40030
+Virginia,King George,40005
+Mississippi,Jefferson,39950
+Wyoming,Carbon,39897
+Mississippi,Benton,39877
+Ohio,Pike,39829
+South Dakota,Roberts,39808
+Kansas,Sumner,39800
+Kentucky,Mercer,39776
+Kentucky,Carter,39762
+Illinois,Greene,39693
+West Virginia,Boone,39585
+Indiana,Fountain,39562
+Texas,Leon,39527
+Ohio,Hocking,39500
+Ohio,Gallia,39390
+Kentucky,Spencer,39291
+Texas,San Augustine,39203
+Virginia,Powhatan,39119
+New York,Clinton,39107
+Illinois,Clark,39071
+Missouri,Barton,39042
+Puerto Rico,San German,38942
+Texas,Brooks,38841
+South Dakota,Dewey,38837
+Kentucky,Lincoln,38798
+Tennessee,Houston,38741
+Arkansas,Nevada,38610
+Pennsylvania,Greene,38594
+Tennessee,Sequatchie,38590
+Minnesota,Rock,38571
+Iowa,Mitchell,38567
+New Hampshire,Belknap,38478
+Illinois,Jasper,38336
+Texas,Yoakum,38309
+Puerto Rico,Jayuya,38297
+New York,Jefferson,38273
+Illinois,Johnson,38252
+Kentucky,Grant,38243
+Utah,Sevier,38233
+Michigan,Alpena,38221
+Pennsylvania,Montour,38125
+Colorado,Delta,38085
+Minnesota,Sibley,38066
+Kentucky,Green,37960
+Wyoming,Lincoln,37886
+Colorado,Crowley,37855
+Virginia,Pulaski,37822
+Colorado,Routt,37807
+Pennsylvania,Clarion,37605
+Oklahoma,Marshall,37567
+Illinois,Washington,37478
+Tennessee,Clay,37439
+Minnesota,Murray,37387
+Puerto Rico,Anasco,37385
+Puerto Rico,Naguabo,37334
+Georgia,Treutlen,37304
+Missouri,Ray,37268
+Kansas,Jefferson,37192
+Iowa,Palo Alto,37174
+Michigan,Sanilac,37103
+Tennessee,Meigs,37001
+New Mexico,Taos,36911
+Texas,Reeves,36822
+Virginia,Greene,36787
+Colorado,Teller,36753
+Kentucky,Webster,36578
+New Hampshire,Grafton,36576
+Michigan,Luce,36571
+Kentucky,Johnson,36452
+Mississippi,Sharkey,36413
+Nebraska,Otoe,36397
+Indiana,Owen,36376
+Texas,Wilbarger,36235
+Michigan,Iron,36169
+Minnesota,Redwood,36129
+Missouri,Vernon,36106
+Illinois,Clay,36064
+California,Mono,36045
+Idaho,Power,35992
+Nebraska,Wayne,35985
+Tennessee,Stewart,35983
+Puerto Rico,Luquillo,35978
+Washington,Clallam,35812
+Oregon,Josephine,35740
+Colorado,Montezuma,35725
+North Carolina,Alleghany,35717
+Illinois,Mercer,35713
+New York,Wyoming,35696
+Kentucky,Bourbon,35634
+Iowa,Jefferson,35620
+Illinois,Richland,35490
+Minnesota,Renville,35390
+Illinois,Cumberland,35373
+Idaho,Idaho,35315
+Missouri,Dallas,35313
+Montana,Deer Lodge,35301
+Kentucky,Harrison,35265
+Iowa,Pocahontas,35190
+Kansas,Dickinson,35184
+Puerto Rico,Comerio,35026
+Texas,Ochiltree,35012
+Pennsylvania,Venango,34891
+Georgia,Heard,34857
+Nebraska,Hamilton,34845
+Wisconsin,Burnett,34782
+Virginia,New Kent,34772
+Kentucky,Henry,34761
+Iowa,Union,34754
+Michigan,Clare,34731
+Colorado,Elbert,34711
+Iowa,Appanoose,34642
+Illinois,Piatt,34608
+Montana,Lincoln,34583
+Wisconsin,Buffalo,34559
+Idaho,Franklin,34512
+Ohio,Adams,34502
+Nevada,Churchill,34485
+Illinois,Mason,34479
+Georgia,Long,34464
+Delaware,Unknown,34342
+Kentucky,Wayne,34150
+West Virginia,Preston,34086
+Texas,Runnels,34071
+Michigan,Mason,34045
+Kentucky,Rockcastle,34014
+Washington,Stevens,33921
+Montana,Toole,33824
+Iowa,Osceola,33782
+Wisconsin,Price,33755
+Texas,Lampasas,33754
+North Carolina,Yancey,33720
+Idaho,Teton,33706
+Virginia,Appomattox,33668
+Utah,Uintah,33631
+Puerto Rico,Barceloneta,33622
+Texas,Lee,33603
+Texas,Montague,33535
+Kentucky,Garrard,33533
+Idaho,Shoshone,33519
+Kentucky,Lewis,33499
+Minnesota,Yellow Medicine,33481
+Kentucky,Larue,33457
+Texas,Dimmit,33329
+Kansas,Neosho,33304
+North Carolina,Pamlico,33288
+North Dakota,Traill,33247
+Kansas,Thomas,33226
+Nebraska,Cuming,33171
+Oklahoma,Love,33144
+Minnesota,Fillmore,33093
+Kentucky,Knott,33091
+Louisiana,Cameron,33033
+West Virginia,Hancock,32989
+Indiana,Pike,32984
+New Hampshire,Cheshire,32885
+California,Siskiyou,32869
+Ohio,Carroll,32866
+Georgia,Marion,32747
+Georgia,Lincoln,32688
+Kansas,Bourbon,32645
+Utah,Carbon,32592
+Utah,Millard,32582
+Pennsylvania,Tioga,32580
+Arkansas,Newton,32547
+Texas,San Jacinto,32518
+Oklahoma,Murray,32512
+Illinois,Pulaski,32429
+Iowa,Howard,32360
+North Carolina,Washington,32340
+Oregon,Columbia,32287
+New Mexico,Socorro,32225
+Montana,Custer,32207
+Georgia,Taylor,32157
+Iowa,Taylor,32142
+Illinois,White,31913
+Ohio,Paulding,31881
+Nebraska,Butler,31834
+Tennessee,Perry,31771
+Kentucky,Carroll,31744
+Mississippi,Franklin,31677
+South Carolina,McCormick,31653
+Michigan,Chippewa,31627
+Illinois,Ford,31519
+Michigan,Gladwin,31500
+Virginia,Bristol city,31483
+Mississippi,Choctaw,31464
+Minnesota,Faribault,31377
+New York,Delaware,31374
+Indiana,Vermillion,31370
+Indiana,Parke,31343
+Arkansas,Pike,31285
+South Dakota,Butte,31202
+Texas,Tyler,31132
+Texas,Childress,31128
+Kentucky,Edmonson,30959
+Wyoming,Converse,30951
+South Dakota,Custer,30790
+Indiana,Blackford,30778
+Iowa,Monona,30771
+Illinois,Edgar,30754
+Iowa,Monroe,30705
+Virginia,Williamsburg city,30692
+Kentucky,Anderson,30619
+Kentucky,Caldwell,30585
+South Dakota,Lyman,30575
+North Carolina,Swain,30519
+Pennsylvania,Jefferson,30443
+Missouri,Wayne,30314
+Arkansas,Fulton,30234
+Oregon,Coos,30231
+Puerto Rico,Guayanilla,30204
+Oklahoma,Johnston,30203
+Puerto Rico,Quebradillas,30128
+West Virginia,Wyoming,30108
+Wisconsin,Rusk,30099
+Kansas,Brown,30078
+Missouri,Macon,30063
+Minnesota,Houston,30026
+Kentucky,Washington,30023
+Puerto Rico,Sabana Grande,29979
+Vermont,Franklin,29865
+Alabama,Coosa,29833
+Kentucky,McCreary,29814
+Minnesota,Pennington,29740
+Minnesota,Wadena,29737
+Kentucky,Todd,29722
+Texas,Red River,29703
+Oklahoma,Pushmataha,29679
+Missouri,DeKalb,29636
+Washington,Klickitat,29615
+Kentucky,Letcher,29611
+Montana,Carbon,29586
+Wisconsin,Ashland,29576
+Oregon,Clatsop,29492
+Missouri,Douglas,29457
+Puerto Rico,Santa Isabel,29416
+Michigan,Wexford,29407
+South Dakota,Grant,29343
+Minnesota,Jackson,29339
+South Dakota,Buffalo,29330
+Nebraska,Phelps,29197
+Puerto Rico,Villalba,29183
+North Carolina,Mitchell,29143
+Wisconsin,Bayfield,29131
+Washington,Asotin,29036
+Illinois,De Witt,29004
+North Dakota,Sioux,28972
+Wisconsin,Washburn,28905
+Georgia,Talbot,28852
+Missouri,Ripley,28850
+Arkansas,Cleveland,28786
+Illinois,Wabash,28720
+Nevada,Humboldt,28631
+South Dakota,Brule,28595
+Missouri,Howard,28507
+North Carolina,Perquimans,28484
+Texas,Trinity,28396
+Nebraska,Kearney,28304
+Montana,Richland,28301
+Virginia,Buchanan,28282
+Montana,Park,28231
+West Virginia,Brooke,28202
+Missouri,Grundy,28146
+Utah,Juab,28117
+Oklahoma,Noble,28087
+Oklahoma,Nowata,28062
+Texas,Morris,27965
+Minnesota,Swift,27816
+Minnesota,Aitkin,27718
+California,Inyo,27688
+Vermont,Windham,27659
+West Virginia,Lincoln,27624
+West Virginia,Greenbrier,27598
+South Dakota,Spink,27579
+Indiana,Pulaski,27558
+Georgia,Twiggs,27526
+Arkansas,Van Buren,27523
+Montana,Beaverhead,27489
+Michigan,Charlevoix,27487
+New York,Essex,27458
+Montana,Valley,27434
+Virginia,Floyd,27388
+Michigan,Crawford,27309
+Ohio,Monroe,27164
+Michigan,Roscommon,27051
+Minnesota,Kanabec,27025
+Missouri,Bates,27024
+Tennessee,Moore,27015
+Puerto Rico,Rincon,26997
+South Dakota,McCook,26968
+Georgia,Crawford,26936
+Puerto Rico,Utuado,26915
+Texas,Eastland,26906
+Kentucky,Trigg,26820
+Nebraska,Knox,26682
+Nebraska,Custer,26627
+Puerto Rico,Patillas,26617
+Kansas,Stevens,26615
+Missouri,Gentry,26612
+Missouri,Gasconade,26448
+Wisconsin,Iron,26385
+Virginia,Essex,26385
+Kentucky,Breckinridge,26308
+Ohio,Meigs,26291
+New Hampshire,Carroll,26233
+Wisconsin,Menominee,26207
+Vermont,Washington,26196
+Kansas,Ellsworth,26180
+Iowa,Keokuk,26081
+Missouri,Carroll,25951
+Arkansas,Prairie,25874
+California,Del Norte,25840
+Puerto Rico,Aibonito,25725
+Iowa,Davis,25700
+North Carolina,Currituck,25695
+Colorado,Prowers,25636
+North Dakota,Pembina,25602
+New Mexico,Grant,25519
+New Mexico,Torrance,25503
+Kentucky,Clinton,25486
+Puerto Rico,Hormigueros,25454
+Virginia,King William,25424
+South Dakota,Tripp,25401
+Iowa,Greene,25333
+Michigan,Osceola,25285
+Kentucky,Estill,25284
+Colorado,Otero,25168
+North Dakota,Dickey,25109
+West Virginia,Grant,25061
+South Dakota,Hutchinson,25015
+Indiana,Martin,24982
+North Carolina,Madison,24973
+Kansas,Coffey,24967
+Montana,Dawson,24930
+Missouri,Ralls,24923
+Wyoming,Goshen,24881
+Vermont,Rutland,24858
+Utah,Morgan,24828
+Texas,Crockett,24816
+Oklahoma,Greer,24760
+Utah,Duchesne,24738
+South Dakota,Walworth,24700
+Idaho,Caribou,24698
+Kansas,Gray,24650
+Missouri,Dent,24639
+Kansas,Scott,24611
+Iowa,Ida,24595
+West Virginia,Upshur,24574
+Puerto Rico,Lajas,24517
+New York,Seneca,24496
+North Dakota,Bottineau,24466
+Nebraska,Holt,24448
+North Carolina,Jones,24444
+West Virginia,Mason,24430
+Illinois,Menard,24393
+Nebraska,Unknown,24373
+Kentucky,Fulton,24335
+Virginia,Fairfax city,24269
+Virginia,Northumberland,24258
+Kansas,Doniphan,24181
+Nebraska,Box Butte,24131
+Missouri,Cedar,24106
+Puerto Rico,Arroyo,24057
+Colorado,Saguache,24003
+Nebraska,Dawes,23958
+Iowa,Lucas,23862
+Puerto Rico,Adjuntas,23842
+West Virginia,Monroe,23841
+Maryland,Garrett,23732
+Vermont,Bennington,23703
+Texas,Franklin,23700
+Kentucky,Lee,23666
+Kentucky,Mason,23657
+Tennessee,Pickett,23648
+Wyoming,Washakie,23622
+Colorado,Yuma,23544
+Nebraska,Merrick,23533
+Idaho,Lincoln,23493
+Montana,Madison,23476
+Illinois,Massac,23459
+Michigan,Cheboygan,23439
+Texas,Ward,23428
+Alaska,North Slope Borough,23428
+Texas,Marion,23390
+Kentucky,Elliott,23384
+Oklahoma,Latimer,23341
+Iowa,Montgomery,23228
+Kansas,Cloud,23190
+Montana,Blaine,23162
+Idaho,Lemhi,23115
+Indiana,Brown,23088
+Kentucky,Metcalfe,23042
+Texas,Newton,23037
+Kansas,Osage,22993
+Pennsylvania,Wyoming,22984
+Minnesota,Pope,22962
+Ohio,Noble,22916
+West Virginia,McDowell,22895
+Nebraska,Red Willow,22892
+North Dakota,Emmons,22851
+Montana,Fergus,22814
+Nebraska,Dixon,22807
+Kansas,Marion,22715
+Maine,Oxford,22661
+Texas,Hamilton,22645
+Tennessee,Van Buren,22635
+Wyoming,Big Horn,22633
+Missouri,Harrison,22588
+Louisiana,Tensas,22584
+Maine,Somerset,22496
+Pennsylvania,Elk,22465
+Arkansas,Monroe,22438
+Oklahoma,Blaine,22411
+Kansas,Phillips,22368
+Missouri,Lewis,22327
+South Dakota,Moody,22278
+Texas,Llano,22231
+Kansas,Kearny,22207
+Minnesota,Koochiching,22142
+Texas,Bandera,22112
+Texas,Lynn,22087
+Virginia,Charlotte,22068
+Texas,McCulloch,21993
+Arkansas,Dallas,21992
+Georgia,Warren,21937
+Michigan,Leelanau,21861
+Nebraska,Pierce,21857
+New Mexico,San Miguel,21849
+Arkansas,Scott,21835
+Alaska,Northwest Arctic Borough,21791
+Texas,Hansford,21787
+Kentucky,McLean,21775
+Nebraska,Howard,21739
+Michigan,Ogemaw,21708
+South Dakota,Hamlin,21696
+Missouri,Shannon,21692
+Iowa,Van Buren,21656
+Minnesota,Stevens,21648
+Kansas,Russell,21603
+North Carolina,Graham,21540
+North Carolina,Clay,21539
+Idaho,Benewah,21522
+Kentucky,Powell,21500
+Oklahoma,Major,21395
+Vermont,Addison,21393
+Alaska,Valdez-Cordova Census Area,21381
+Missouri,Oregon,21364
+South Dakota,Gregory,21267
+Kansas,Meade,21259
+Texas,Blanco,21221
+Arkansas,Searcy,21211
+West Virginia,Hampshire,21143
+West Virginia,Taylor,21123
+Oklahoma,Woods,21063
+Kansas,Pratt,20894
+Texas,Hartley,20886
+Iowa,Fremont,20880
+Kentucky,Magoffin,20869
+Michigan,Manistee,20868
+Puerto Rico,Ceiba,20864
+Minnesota,Lincoln,20862
+Nebraska,Clay,20860
+Indiana,Crawford,20830
+Indiana,Benton,20786
+North Dakota,Ransom,20779
+Virginia,Lexington city,20673
+Iowa,Adair,20625
+Indiana,Union,20586
+Texas,Swisher,20514
+Missouri,Hickory,20505
+Maine,Waldo,20422
+Georgia,Clay,20421
+Iowa,Worth,20408
+Colorado,Rio Grande,20403
+Virginia,Amelia,20388
+North Dakota,McHenry,20319
+South Dakota,Corson,20318
+Texas,Somervell,20313
+Michigan,Kalkaska,20301
+Colorado,Lake,20269
+Kentucky,Martin,20229
+Texas,Goliad,20196
+Vermont,Windsor,20147
+Texas,Stephens,20147
+Arkansas,Montgomery,19903
+Montana,Stillwater,19893
+Wyoming,Sublette,19867
+Texas,Winkler,19789
+Wisconsin,Pepin,19742
+Oklahoma,Tillman,19734
+Missouri,Daviess,19697
+South Dakota,Aurora,19673
+Virginia,Rockbridge,19641
+Puerto Rico,Penuelas,19607
+South Dakota,Fall River,19604
+Texas,Mitchell,19581
+Montana,Jefferson,19499
+Michigan,Arenac,19497
+Missouri,Caldwell,19495
+North Dakota,Dunn,19477
+Kentucky,Fleming,19469
+North Dakota,Foster,19459
+Kentucky,Gallatin,19446
+West Virginia,Nicholas,19440
+West Virginia,Wetzel,19366
+Virginia,Lancaster,19359
+Texas,Jack,19298
+Nebraska,Nemaha,19279
+Arkansas,Marion,19278
+North Carolina,Gates,19266
+Arkansas,Lafayette,19236
+Kansas,Sherman,19211
+Nebraska,Burt,19188
+Michigan,Antrim,19176
+Colorado,Kit Carson,19078
+West Virginia,Barbour,19058
+Minnesota,Marshall,19011
+Illinois,Marshall,18999
+Kentucky,Cumberland,18982
+Iowa,Unknown,18969
+Puerto Rico,Maunabo,18968
+Texas,Presidio,18965
+Colorado,Grand,18933
+Virginia,Madison,18904
+Kansas,Haskell,18852
+New York,Schoharie,18810
+Kansas,Anderson,18770
+Virginia,Alleghany,18710
+Missouri,Monroe,18656
+Montana,Phillips,18621
+North Dakota,Eddy,18608
+Pennsylvania,McKean,18546
+Oklahoma,Washita,18485
+Missouri,Montgomery,18434
+Kentucky,Pendleton,18407
+Puerto Rico,Guanica,18406
+Massachusetts,Nantucket,18350
+South Dakota,Kingsbury,18350
+Kansas,Rice,18276
+Virginia,Cumberland,18245
+Missouri,Maries,18227
+Kansas,Harper,18196
+Texas,Floyd,18192
+Nebraska,Morrill,18180
+Colorado,San Miguel,18101
+Nebraska,Cedar,18074
+Texas,Jim Hogg,18049
+Nebraska,Cheyenne,18027
+Minnesota,Wilkin,18014
+Oklahoma,Kiowa,18011
+Montana,Powell,17982
+Missouri,Linn,17967
+Virginia,Clarke,17964
+North Dakota,LaMoure,17923
+Wisconsin,Florence,17905
+Missouri,Ozark,17884
+South Dakota,Jerauld,17840
+North Carolina,Hyde,17751
+South Dakota,Day,17746
+Kentucky,Hancock,17745
+New York,Yates,17712
+West Virginia,Hardy,17700
+Nebraska,Polk,17683
+Virginia,Lunenburg,17680
+Georgia,Schley,17629
+Idaho,Clearwater,17602
+New Mexico,Hidalgo,17531
+Texas,Rains,17463
+South Dakota,Faulk,17454
+Kentucky,Lawrence,17443
+Arkansas,Perry,17388
+Iowa,Audubon,17290
+Massachusetts,Dukes,17207
+Michigan,Benzie,17192
+Missouri,Dade,17125
+North Carolina,Camden,17101
+North Carolina,Tyrrell,17058
+Kentucky,Crittenden,17026
+Texas,Garza,17026
+New York,Lewis,16988
+Kansas,Wabaunsee,16949
+Idaho,Boundary,16929
+Kentucky,Breathitt,16925
+Illinois,Hamilton,16856
+Minnesota,Norman,16758
+Indiana,Switzerland,16698
+Minnesota,Clearwater,16688
+Nebraska,Antelope,16678
+South Dakota,Deuel,16583
+Kansas,Rooks,16582
+Idaho,Valley,16575
+North Dakota,Nelson,16558
+Missouri,Carter,16558
+Kansas,Marshall,16498
+Iowa,Decatur,16491
+Indiana,Ohio,16387
+Kansas,Linn,16381
+Virginia,Buena Vista city,16377
+Minnesota,Big Stone,16354
+Kansas,Kingman,16303
+Oregon,Baker,16297
+Kansas,Clay,16269
+Iowa,Wayne,16204
+Virginia,Nelson,16168
+Utah,Grand,16061
+Kentucky,Livingston,15940
+South Dakota,Douglas,15909
+Virginia,Dickenson,15838
+Minnesota,Lake,15808
+Kentucky,Bath,15807
+Virginia,Surry,15797
+Illinois,Alexander,15768
+Texas,San Saba,15758
+New York,Franklin,15740
+Texas,Callahan,15727
+Wyoming,Weston,15664
+Texas,Clay,15643
+Alaska,Kusilvak Census Area,15624
+Texas,Hemphill,15613
+South Dakota,Bennett,15581
+Georgia,Baker,15568
+Nebraska,Boone,15539
+Michigan,Missaukee,15435
+Virginia,Giles,15378
+Michigan,Mackinac,15368
+Tennessee,Hancock,15317
+West Virginia,Morgan,15302
+Puerto Rico,Las Marias,15289
+Colorado,Washington,15285
+Kentucky,Morgan,15272
+Texas,Crane,15247
+Nebraska,Keith,15221
+Washington,Pacific,15179
+Virginia,Middlesex,15174
+Texas,Real,15159
+Washington,Jefferson,15148
+Michigan,Baraga,15073
+Maine,Franklin,15068
+Minnesota,Lac qui Parle,14939
+North Dakota,Pierce,14927
+Kansas,Allen,14907
+Nevada,Lander,14899
+Alaska,Unknown,14884
+Nebraska,Fillmore,14822
+Texas,Crosby,14807
+North Dakota,Cavalier,14783
+Texas,Archer,14733
+North Dakota,McIntosh,14699
+Oklahoma,Coal,14693
+Kentucky,Owen,14636
+Kansas,Gove,14630
+Virginia,Charles City,14625
+Alaska,Ketchikan Gateway Borough,14526
+Illinois,Henderson,14478
+Nebraska,Richardson,14445
+Texas,Sutton,14442
+Washington,Pend Oreille,14417
+North Dakota,Wells,14398
+Virginia,Falls Church city,14367
+Missouri,St. Clair,14323
+New York,Schuyler,14284
+Kentucky,Leslie,14223
+South Dakota,Edmunds,14193
+Minnesota,Grant,14191
+Texas,Reagan,14100
+Wyoming,Johnson,14091
+Montana,Pondera,13967
+Colorado,Park,13967
+Alaska,Kodiak Island Borough,13931
+Missouri,Holt,13901
+Kansas,Ness,13898
+Texas,Concho,13878
+Illinois,Brown,13876
+Missouri,Clark,13865
+Ohio,Vinton,13858
+Texas,Martin,13838
+Kansas,Sheridan,13835
+New Hampshire,Sullivan,13732
+Maine,Sagadahoc,13724
+North Dakota,Sargent,13698
+New Mexico,Sierra,13687
+Nebraska,Johnson,13675
+Oklahoma,Alfalfa,13594
+Texas,Mason,13572
+Alaska,Aleutians West Census Area,13550
+Kentucky,Lyon,13507
+Puerto Rico,Vieques,13438
+New Mexico,Quay,13417
+Oregon,Crook,13329
+Minnesota,Mahnomen,13322
+Nevada,White Pine,13298
+Arizona,Greenlee,13236
+Alaska,Nome Census Area,13205
+Kansas,Wilson,13194
+Nebraska,Jefferson,13189
+Kansas,Republic,13179
+Alaska,Yukon-Koyukuk Census Area,13160
+Illinois,Gallatin,13132
+Kansas,Ottawa,13093
+Oklahoma,Beaver,13025
+Utah,Emery,13025
+Utah,Kane,12917
+Utah,Garfield,12894
+Indiana,Warren,12889
+Kentucky,Carlisle,12847
+Wyoming,Platte,12824
+Nebraska,Sheridan,12793
+Ohio,Morgan,12772
+Texas,Sabine,12686
+Utah,Unknown,12594
+South Dakota,Hand,12587
+Wyoming,Crook,12584
+California,Mariposa,12554
+Kentucky,Hickman,12551
+Texas,Donley,12535
+Texas,Wheeler,12511
+Pennsylvania,Fulton,12479
+Illinois,Scott,12455
+Kansas,Chase,12411
+Maine,Hancock,12377
+Michigan,Ontonagon,12352
+Vermont,Lamoille,12340
+Virginia,Poquoson city,12323
+Mississippi,Issaquena,12240
+Illinois,Schuyler,12228
+Nebraska,Chase,12179
+West Virginia,Lewis,12124
+Texas,Knox,12116
+Ohio,Harrison,12073
+Maine,Knox,11996
+Oklahoma,Cotton,11991
+West Virginia,Summers,11910
+Missouri,Shelby,11905
+Illinois,Edwards,11820
+Missouri,Iron,11799
+Nebraska,Furnas,11787
+South Dakota,Clark,11763
+Hawaii,Kauai,11751
+North Dakota,Griggs,11674
+North Dakota,Hettinger,11649
+Texas,Coke,11565
+South Dakota,Sanborn,11452
+Colorado,Moffat,11418
+Nebraska,Stanton,11415
+Arkansas,Woodruff,11366
+Texas,Hudspeth,11350
+Alaska,Southeast Fairbanks Census Area,11347
+Texas,Fisher,11336
+Nebraska,Nance,11311
+Kansas,Rawlins,11277
+Virginia,Mathews,11270
+Missouri,Reynolds,11241
+Kansas,Greenwood,11237
+South Dakota,Potter,11223
+Texas,Coleman,11214
+Alaska,Bristol Bay Borough,11198
+Kansas,Clark,11178
+Colorado,Clear Creek,11170
+Kentucky,Trimble,11169
+New Hampshire,Coos,11163
+Puerto Rico,Maricao,11162
+West Virginia,Pocahontas,11132
+Alaska,Sitka City and Borough,11130
+Virginia,King and Queen,11082
+Iowa,Ringgold,11052
+South Dakota,Hanson,11034
+Texas,Sherman,11029
+Illinois,Stark,10932
+South Dakota,Ziebach,10911
+North Dakota,Renville,10891
+Colorado,Archuleta,10844
+Kansas,Rush,10798
+South Dakota,Stanley,10795
+Illinois,Putnam,10748
+Kansas,Stanton,10735
+Missouri,Chariton,10733
+Montana,Sanders,10733
+Idaho,Boise,10721
+Michigan,Alger,10718
+Kansas,Hamilton,10693
+Kansas,Cheyenne,10572
+West Virginia,Roane,10566
+Texas,Culberson,10561
+Maine,Lincoln,10470
+South Dakota,Miner,10424
+Oklahoma,Jefferson,10410
+Kentucky,Ballard,10400
+Oklahoma,Grant,10347
+Michigan,Presque Isle,10288
+Montana,Chouteau,10275
+Illinois,Calhoun,10271
+Oklahoma,Dewey,10260
+Texas,Cochran,10239
+North Dakota,Kidder,10174
+North Dakota,Bowman,10124
+Montana,Sweet Grass,10101
+Kansas,Trego,10082
+Pennsylvania,Warren,10080
+Washington,Skamania,10060
+Missouri,Atchison,10039
+California,Plumas,9952
+Kentucky,Nicholas,9945
+Kansas,Stafford,9941
+South Dakota,Jackson,9936
+Nebraska,Thayer,9931
+Virginia,Rappahannock,9898
+Northern Mariana Islands,Saipan,9782
+Kentucky,Owsley,9766
+Minnesota,Red Lake,9749
+West Virginia,Gilmer,9740
+Nebraska,Webster,9696
+Michigan,Alcona,9648
+North Dakota,Golden Valley,9619
+New Mexico,Guadalupe,9586
+Texas,Haskell,9580
+Kentucky,Bracken,9563
+Kentucky,Menifee,9509
+Montana,Musselshell,9503
+Virginia,Bland,9491
+North Dakota,Logan,9461
+Idaho,Custer,9449
+Oregon,Tillamook,9415
+Washington,Unknown,9330
+West Virginia,Pendleton,9309
+Idaho,Bear Lake,9283
+Kansas,Mitchell,9280
+New Hampshire,Unknown,9228
+Kansas,Logan,9191
+Maine,Aroostook,9124
+Michigan,Lake,9099
+Nebraska,Valley,9074
+Kansas,Washington,9046
+Montana,Sheridan,9042
+Utah,Beaver,8972
+Colorado,Conejos,8961
+Kansas,Decatur,8957
+Nebraska,Franklin,8928
+Pennsylvania,Potter,8890
+Colorado,Phillips,8875
+North Dakota,Towner,8869
+Colorado,Las Animas,8866
+Kansas,Edwards,8862
+North Dakota,Burke,8860
+Missouri,Scotland,8857
+Texas,Mills,8814
+Montana,Teton,8776
+Iowa,Adams,8774
+Washington,Lincoln,8722
+Michigan,Oscoda,8623
+Texas,Schleicher,8594
+New Mexico,Union,8577
+South Dakota,Mellette,8564
+Nebraska,Cherry,8563
+Michigan,Schoolcraft,8551
+Kentucky,Wolfe,8536
+Nebraska,Nuckolls,8470
+Kansas,Morris,8345
+Oklahoma,Roger Mills,8257
+Montana,Broadwater,8135
+Missouri,Knox,8124
+Georgia,Webster,8067
+Vermont,Caledonia,8050
+Wyoming,Hot Springs,8040
+New Mexico,Colfax,7985
+Idaho,Lewis,7983
+Oklahoma,Harper,7948
+South Dakota,Marshall,7890
+South Dakota,Perkins,7881
+Nebraska,Kimball,7871
+Texas,Edwards,7765
+Nebraska,Gosper,7763
+Texas,Lipscomb,7710
+Vermont,Orange,7691
+Oklahoma,Harmon,7680
+Montana,Fallon,7587
+Virgin Islands,St. John,7473
+Kansas,Graham,7448
+Idaho,Butte,7391
+New Mexico,Los Alamos,7334
+Georgia,Quitman,7319
+Maine,Washington,7307
+West Virginia,Clay,7271
+Minnesota,Traverse,7193
+Nebraska,Brown,7188
+Oregon,Curry,7128
+North Dakota,Adams,7072
+Oregon,Lake,6984
+Illinois,Hardin,6959
+North Dakota,Grant,6925
+Minnesota,Kittson,6924
+Arkansas,Calhoun,6912
+Kansas,Barber,6885
+South Dakota,Haakon,6883
+Colorado,Unknown,6823
+South Dakota,McPherson,6791
+Texas,Kinney,6765
+Georgia,Glascock,6760
+Missouri,Putnam,6753
+Nebraska,Perkins,6674
+Virginia,Covington city,6630
+Idaho,Adams,6586
+Washington,San Juan,6578
+West Virginia,Tucker,6554
+Alaska,Dillingham Census Area,6553
+Idaho,Oneida,6537
+Vermont,Orleans,6529
+Texas,Menard,6515
+Kansas,Morton,6475
+North Dakota,Oliver,6459
+Montana,Granite,6432
+Colorado,Costilla,6374
+Colorado,Ouray,6354
+Kansas,Hodgeman,6198
+Colorado,Lincoln,6151
+North Dakota,Steele,6147
+Nebraska,Boyd,6122
+Nebraska,Sherman,6116
+Missouri,Schuyler,6068
+West Virginia,Tyler,6051
+Texas,Hardeman,6005
+Virginia,Craig,5996
+Texas,Carson,5946
+Montana,Meagher,5929
+Nevada,Lincoln,5918
+Kansas,Kiowa,5890
+West Virginia,Doddridge,5848
+Nebraska,Greeley,5827
+Michigan,Montmorency,5740
+Virginia,Norton city,5696
+Oregon,Wallowa,5688
+Texas,Dickens,5668
+South Dakota,Campbell,5649
+Nebraska,Harlan,5630
+Colorado,Huerfano,5546
+Kansas,Wallace,5539
+West Virginia,Braxton,5525
+Colorado,Baca,5433
+Colorado,Rio Blanco,5406
+West Virginia,Ritchie,5334
+Nebraska,Rock,5274
+North Dakota,Divide,5265
+Montana,Wheatland,5093
+Oklahoma,Ellis,5071
+South Dakota,Hyde,5063
+Montana,McCone,4983
+California,Trinity,4964
+Illinois,Pope,4918
+Texas,Hall,4847
+Missouri,Mercer,4797
+West Virginia,Wirt,4709
+Kansas,Wichita,4703
+Washington,Ferry,4652
+Minnesota,Lake of the Woods,4641
+Colorado,Gilpin,4627
+Colorado,Sedgwick,4592
+Kansas,Smith,4585
+Texas,Kimble,4516
+Oklahoma,Unknown,4453
+Montana,Carter,4429
+Colorado,Bent,4428
+Texas,Cottle,4418
+Texas,Shackelford,4396
+Kansas,Woodson,4389
+West Virginia,Pleasants,4375
+California,Modoc,4290
+Nevada,Pershing,4267
+Montana,Powder River,4235
+Texas,Delta,4205
+Alaska,Prince of Wales-Hyder Census Area,4145
+Nebraska,Frontier,4142
+Oklahoma,Cimarron,4089
+North Dakota,Sheridan,4071
+Idaho,Clark,4055
+South Dakota,Sully,4048
+Kansas,Jewell,4030
+Texas,Upton,4019
+West Virginia,Calhoun,3961
+Nebraska,Hitchcock,3957
+Oregon,Harney,3955
+Missouri,Worth,3919
+Oregon,Grant,3885
+Kansas,Chautauqua,3875
+Pennsylvania,Forest,3836
+Nebraska,Pawnee,3827
+Texas,Baylor,3826
+Nebraska,Garfield,3779
+Kansas,Lane,3756
+Nevada,Mineral,3750
+Montana,Wibaux,3737
+Colorado,Custer,3732
+Montana,Daniels,3702
+Kansas,Greeley,3672
+Idaho,Camas,3607
+Nebraska,Garden,3553
+Montana,Liberty,3547
+Montana,Garfield,3450
+Texas,Oldham,3437
+Kansas,Osborne,3413
+Colorado,Mineral,3398
+Georgia,Taliaferro,3351
+Kentucky,Robertson,3266
+Vermont,Grand Isle,3262
+Wyoming,Niobrara,3237
+South Dakota,Harding,3224
+Puerto Rico,Culebra,3102
+Texas,Collingsworth,3080
+Pennsylvania,Sullivan,3044
+Montana,Prairie,3016
+Kansas,Lincoln,3014
+New York,Hamilton,2988
+Texas,Armstrong,2904
+Kansas,Comanche,2863
+Colorado,Cheyenne,2850
+South Dakota,Jones,2846
+Texas,Briscoe,2816
+Texas,Jeff Davis,2813
+West Virginia,Webster,2804
+Nebraska,Dundy,2751
+Utah,Rich,2745
+Washington,Columbia,2743
+Texas,McMullen,2680
+Oregon,Sherman,2662
+Utah,Piute,2646
+Alaska,Wrangell City and Borough,2592
+North Dakota,Billings,2590
+Virginia,Bath,2588
+Michigan,Keweenaw,2565
+Washington,Garfield,2519
+Minnesota,Cook,2513
+Northern Mariana Islands,Unknown,2491
+Nevada,Storey,2398
+Alaska,Denali Borough,2367
+Nebraska,Hooker,2301
+Alaska,Petersburg Borough,2212
+Mississippi,Unknown,2144
+Montana,Judith Basin,2086
+Texas,Roberts,1996
+Maine,Piscataquis,1990
+Texas,Stonewall,1965
+Texas,Glasscock,1957
+Vermont,Essex,1871
+Alaska,Aleutians East Borough,1854
+Kansas,Elk,1841
+Texas,Foard,1835
+Montana,Mineral,1834
+Vermont,Unknown,1830
+Texas,Irion,1827
+Nevada,Unknown,1804
+New Mexico,Catron,1790
+Utah,Wayne,1781
+New Mexico,Mora,1758
+Alaska,Haines Borough,1734
+North Dakota,Slope,1692
+Pennsylvania,Cameron,1689
+Washington,Wahkiakum,1687
+Texas,Motley,1623
+Nebraska,Hayes,1573
+Texas,Throckmorton,1566
+Montana,Treasure,1563
+Colorado,Jackson,1531
+Montana,Golden Valley,1515
+Texas,Sterling,1513
+Nebraska,Logan,1506
+Nebraska,Sioux,1484
+Nevada,Eureka,1473
+Nebraska,Thomas,1468
+Nebraska,Deuel,1467
+Virginia,Highland,1405
+Texas,Kent,1385
+Oregon,Gilliam,1375
+Ohio,Unknown,1304
+Idaho,Unknown,1219
+California,Alpine,1213
+Colorado,San Juan,1149
+Nebraska,McPherson,1148
+Texas,Kenedy,1135
+Nebraska,Loup,998
+New Mexico,De Baca,987
+California,Sierra,980
+Kentucky,Unknown,951
+Nebraska,Keya Paha,899
+North Dakota,Unknown,881
+Colorado,Hinsdale,849
+Texas,Terrell,822
+Alaska,Lake and Peninsula Borough,813
+Maine,Unknown,709
+Colorado,Kiowa,658
+Nebraska,Banner,653
+Colorado,Dolores,580
+Nebraska,Arthur,566
+Nebraska,Grant,553
+New Mexico,Unknown,509
+Nebraska,Wheeler,473
+Nebraska,Blaine,455
+Missouri,Unknown,425
+Virgin Islands,Unknown,419
+Maryland,Unknown,397
+Alaska,Skagway Municipality,373
+New Mexico,Harding,368
+Montana,Petroleum,268
+Northern Mariana Islands,Tinian,212
+Hawaii,Unknown,202
+Texas,Borden,194
+Nevada,Esmeralda,165
+Utah,Daggett,155
+Oregon,Wheeler,100
+Virginia,Unknown,87
+Texas,King,65
+South Dakota,Unknown,58
+Wyoming,Unknown,37
+Texas,Loving,19
+Pennsylvania,Unknown,18
+Arizona,Unknown,13
+Indiana,Unknown,8
+California,Unknown,7
+West Virginia,Unknown,2
+Oregon,Unknown,1
+Kansas,Unknown,0
+South Carolina,Unknown,0
+New York,Unknown,0
+Montana,Unknown,0
+Texas,Unknown,0
