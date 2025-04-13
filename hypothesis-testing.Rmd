@@ -1,0 +1,57 @@
+---
+title: "COVID_hypothesis_testing"
+author: "Matthew Miller"
+date: "`r Sys.Date()`"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(readr)
+```
+
+
+Read the hospital data
+```{r}
+hospital_data <- read_csv("data/Hospitals_gdb_771050112109123987.csv")
+```
+Read the COVID-19 data
+```{r}
+covid_data <- read_csv("data/total_cases_by_county.csv")
+```
+Preprocess hospital data and hospital data, ensuring the join column is the same data type
+```{r}
+hospital_density <- hospital_data %>%
+  count(COUNTYFIPS, name = "hospital_count")
+
+covid_data <- covid_data %>%
+  mutate(COUNTYFIPS = as.character(COUNTYFIPS))
+
+hospital_density <- hospital_density %>%
+  mutate(COUNTYFIPS = as.character(COUNTYFIPS))
+```
+Join by county (using FIPS code)
+```{r}
+combined_data <- covid_data %>%
+  inner_join(hospital_density, by = "COUNTYFIPS")
+```
+
+Visualize the data
+```{r}
+ggplot(combined_data, aes(x = hospital_count, y = total_cases)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = TRUE) +
+  labs(title = "COVID-19 Cases vs Hospital Density",
+       x = "Hospitals per County",
+       y = "Total COVID-19 Cases")
+```
+
+Test hypothesis
+```{r}
+model <- lm(total_cases ~ hospital_count, data = combined_data)
+summary(model)
+confint(model)
+```
+
+This p-value of less than 2.2e-16 falls outside of our confidence interval of 2.5-97.5%, indicating that we should reject the null hypothesis and accept the alternative hypothesis. That is, the data indicates a relationship between hospital density and total number of COVID-19 cases in 2020.
