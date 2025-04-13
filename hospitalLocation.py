@@ -1,5 +1,10 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import time
+import sys
+
+start_total = time.time()
+
 # Load the hospital data
 hospital_df = pd.read_csv("Data/Hospitals_gdb_771050112109123987.csv")
 
@@ -28,6 +33,10 @@ def clean_hospital_location_data(df):
     df = df.dropna(subset=["Latitude", "Longitude"])
     df = df[(df["Latitude"] != 0) & (df["Longitude"] != 0)]
 
+    # Report memory usage
+    memory_mb = df.memory_usage(deep=True).sum() / (1024 ** 2)
+    print(f"Memory usage of cleaned hospital DataFrame: {memory_mb:.2f} MB")
+
     return df
 
 def plot_hospitals(df):
@@ -38,6 +47,10 @@ def plot_hospitals(df):
     plt.ylabel("LATITUDE")
     plt.grid(True)
     plt.savefig("hospital_locations.png")
+
+    end_total = time.time()
+    print(f"Total run time: {end_total - start_total:.2f} seconds")
+
     plt.show()
 
 if __name__ == "__main__":

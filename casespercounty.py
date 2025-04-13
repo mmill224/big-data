@@ -2,6 +2,11 @@ import geopandas as gpd
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
+import time
+import sys
+
+# Start total time
+start_total = time.time()
 
 # Load shapefile with county geometries
 counties_gdf = gpd.read_file("Data/cb_2018_us_county_20m.shp")
@@ -40,6 +45,8 @@ print(merged["total_cases"].describe())
  """
 # Plot using the log scale
 
+# Report memory usage
+print(f"Memory usage of final GeoDataFrame: {merged.memory_usage(deep=True).sum() / 1024**2:.2f} MB")
 
 # Plot
 fig, ax = plt.subplots(1, 1, figsize=(15, 10))
@@ -67,4 +74,8 @@ ax.set_title("COVID-19 Total Cases by US County", fontsize=16)
 ax.axis("off")
 
 plt.tight_layout()
+
+end_total = time.time()
+print(f"Total run time: {end_total - start_total:.2f} seconds")
+
 plt.show()
