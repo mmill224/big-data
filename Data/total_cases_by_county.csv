@@ -1297,8 +1297,8 @@ Arkansas,Carroll,112194
 Missouri,Lawrence,112163
 Illinois,Bureau,112160
 Oklahoma,Custer,112150
-Texas,Karnes,112086
 North Carolina,Jackson,112086
+Texas,Karnes,112086
 Missouri,Laclede,112017
 Kentucky,Nelson,111577
 Texas,Uvalde,111501
@@ -1316,8 +1316,8 @@ Wisconsin,Clark,109852
 Idaho,Nez Perce,109807
 Georgia,Crisp,109660
 Tennessee,Johnson,109631
-Ohio,Sandusky,109423
 Indiana,Montgomery,109423
+Ohio,Sandusky,109423
 Indiana,Fayette,109420
 North Carolina,Pasquotank,109057
 Texas,Calhoun,108983
@@ -1493,8 +1493,8 @@ Georgia,Cook,89652
 Georgia,Haralson,89567
 Minnesota,Morrison,89562
 South Dakota,Yankton,89466
-North Carolina,Anson,89401
 Indiana,Jasper,89401
+North Carolina,Anson,89401
 Puerto Rico,Corozal,89378
 South Carolina,Bamberg,89286
 South Carolina,Abbeville,89140
@@ -1707,8 +1707,8 @@ Wyoming,Uinta,69283
 Alabama,Fayette,69108
 Georgia,Hancock,69015
 Missouri,Cooper,68987
-Arkansas,Logan,68938
 Puerto Rico,Las Piedras,68938
+Arkansas,Logan,68938
 Illinois,Cass,68908
 Indiana,Jennings,68905
 Arkansas,Baxter,68868
@@ -1793,8 +1793,8 @@ Kentucky,Clark,62196
 Arkansas,Cleburne,62149
 Indiana,Jefferson,62014
 Washington,Mason,61907
-Missouri,Morgan,61869
 Kentucky,Taylor,61869
+Missouri,Morgan,61869
 Oklahoma,Craig,61757
 Kansas,Miami,61662
 Alabama,Choctaw,61649
@@ -2066,8 +2066,8 @@ South Dakota,Charles Mix,45331
 Ohio,Wyandot,45302
 Illinois,Lawrence,45145
 Georgia,Irwin,45093
-Minnesota,Pipestone,45067
 Oregon,Wasco,45067
+Minnesota,Pipestone,45067
 Missouri,Osage,44977
 Texas,Bosque,44925
 North Dakota,Barnes,44895
@@ -2130,8 +2130,8 @@ Iowa,Cass,41415
 Minnesota,Roseau,41400
 Puerto Rico,Loiza,41366
 Georgia,Miller,41221
-Oklahoma,Haskell,41203
 Virginia,Scott,41203
+Oklahoma,Haskell,41203
 Arkansas,Stone,41156
 Illinois,Pike,41067
 Texas,Comanche,40899
@@ -2530,8 +2530,8 @@ Idaho,Lincoln,23493
 Montana,Madison,23476
 Illinois,Massac,23459
 Michigan,Cheboygan,23439
-Texas,Ward,23428
 Alaska,North Slope Borough,23428
+Texas,Ward,23428
 Texas,Marion,23390
 Kentucky,Elliott,23384
 Oklahoma,Latimer,23341
@@ -2631,8 +2631,8 @@ Michigan,Kalkaska,20301
 Colorado,Lake,20269
 Kentucky,Martin,20229
 Texas,Goliad,20196
-Vermont,Windsor,20147
 Texas,Stephens,20147
+Vermont,Windsor,20147
 Arkansas,Montgomery,19903
 Montana,Stillwater,19893
 Wyoming,Sublette,19867
@@ -2685,8 +2685,8 @@ Oklahoma,Washita,18485
 Missouri,Montgomery,18434
 Kentucky,Pendleton,18407
 Puerto Rico,Guanica,18406
-Massachusetts,Nantucket,18350
 South Dakota,Kingsbury,18350
+Massachusetts,Nantucket,18350
 Kansas,Rice,18276
 Virginia,Cumberland,18245
 Missouri,Maries,18227
@@ -2726,8 +2726,8 @@ Michigan,Benzie,17192
 Missouri,Dade,17125
 North Carolina,Camden,17101
 North Carolina,Tyrrell,17058
-Kentucky,Crittenden,17026
 Texas,Garza,17026
+Kentucky,Crittenden,17026
 New York,Lewis,16988
 Kansas,Wabaunsee,16949
 Idaho,Boundary,16929
@@ -2740,8 +2740,8 @@ Nebraska,Antelope,16678
 South Dakota,Deuel,16583
 Kansas,Rooks,16582
 Idaho,Valley,16575
-North Dakota,Nelson,16558
 Missouri,Carter,16558
+North Dakota,Nelson,16558
 Kansas,Marshall,16498
 Iowa,Decatur,16491
 Indiana,Ohio,16387
@@ -2815,8 +2815,8 @@ South Dakota,Edmunds,14193
 Minnesota,Grant,14191
 Texas,Reagan,14100
 Wyoming,Johnson,14091
-Montana,Pondera,13967
 Colorado,Park,13967
+Montana,Pondera,13967
 Alaska,Kodiak Island Borough,13931
 Missouri,Holt,13901
 Kansas,Ness,13898
@@ -3266,8 +3266,8 @@ Indiana,Unknown,8
 California,Unknown,7
 West Virginia,Unknown,2
 Oregon,Unknown,1
-Kansas,Unknown,0
-South Carolina,Unknown,0
 New York,Unknown,0
 Montana,Unknown,0
 Texas,Unknown,0
+Kansas,Unknown,0
+South Carolina,Unknown,0
