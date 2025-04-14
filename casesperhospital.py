@@ -7,14 +7,13 @@ import sys
 
 start_total = time.time()
 
-# Load shapefile with county geometries
+#Load shapefile with county geometries, used to match counties to coordinates
 start = time.time()
 counties_gdf = gpd.read_file("Data/cb_2018_us_county_20m.shp")
 end = time.time()
 print(f"Shapefile load time: {end - start:.2f} seconds")
 print(counties_gdf.columns)
 
-# State FIPS codes to state names
 state_fips_to_name = {
     "01": "alabama", "02": "alaska", "04": "arizona", "05": "arkansas", "06": "california",
     "08": "colorado", "09": "connecticut", "10": "delaware", "11": "district of columbia",
@@ -29,11 +28,11 @@ state_fips_to_name = {
     "51": "virginia", "53": "washington", "54": "west virginia", "55": "wisconsin", "56": "wyoming"
 }
 
-# Add lowercase state name and county name columns
+#Standardize columns to lowercase to avoid errors in merge
 counties_gdf["state"] = counties_gdf["STATEFP"].map(state_fips_to_name)
 counties_gdf["county"] = counties_gdf["NAME"].str.lower()
 
-# Load summarized COVID data
+#Load summarized COVID data
 start = time.time()
 cases_df = pd.read_csv("Data/total_cases_by_county.csv")
 cases_df["county"] = cases_df["county"].str.lower()
@@ -41,31 +40,25 @@ cases_df["state"] = cases_df["state"].str.lower()
 end = time.time()
 print(f"COVID data load time: {end - start:.2f} seconds")
 
-# Merge cases with geometries
+#Merge cases with geometries
 start = time.time()
 merged = counties_gdf.merge(cases_df, on=["state", "county"], how="left")
 end = time.time()
 print(f"Merging COVID cases: {end - start:.2f} seconds")
 print(merged["total_cases"].describe())
 
-# Add a log-transformed column (add 1 to avoid log(0))
-""" merged["log_total_cases"] = np.log1p(merged["total_cases"])
- """
-# Plot using the log scale
-
-
 #Load hospital dataset
 start = time.time()
 hospitals_df = pd.read_csv("Data/Hospitals_gdb_771050112109123987.csv")
 
-# Normalize county and state names to match
+#Normalize county and state names to match
 hospitals_df["county"] = hospitals_df["COUNTY"].str.lower()
 hospitals_df["state"] = hospitals_df["STATE"].str.lower()
 
-# Count number of hospitals per (state, county)
+#Count number of hospitals per (state, county)
 hospital_counts = hospitals_df.groupby(["state", "county"]).size().reset_index(name="hospital_count")
 
-# Merge hospital counts with COVID case data
+#Merge hospital counts with COVID case data
 merged = merged.merge(hospital_counts, on=["state", "county"], how="left")
 
 
@@ -74,14 +67,14 @@ merged["hospital_count"].fillna(1, inplace=True)
 end = time.time()
 print(f"Hospital data process & merge time: {end - start:.2f} seconds")
 
-# Calculate cases per hospital
+#Calculate cases per hospital
 merged["cases_per_hospital"] = merged["total_cases"] / merged["hospital_count"]
 merged["log_cases_per_hospital"] = np.log1p(merged["cases_per_hospital"])
 
-# Report memory usage
+#Report memory usage
 print(f"Memory usage of final GeoDataFrame: {merged.memory_usage(deep=True).sum() / 1024**2:.2f} MB")
 
-# Plot: Cases per hospital
+#Plot: Cases per hospital
 start = time.time()
 fig, ax = plt.subplots(1, 1, figsize=(15, 10))
 merged.plot(

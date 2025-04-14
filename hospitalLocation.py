@@ -5,18 +5,18 @@ import sys
 
 start_total = time.time()
 
-# Load the hospital data
+#Load the hospital data
 hospital_df = pd.read_csv("Data/Hospitals_gdb_771050112109123987.csv")
 
-# Preview the data
-print(hospital_df.columns)
-print(hospital_df.head())
+#Preview the data, uncomment
+""" print(hospital_df.columns)
+print(hospital_df.head()) """
 
 def clean_hospital_location_data(df):
-    # Standardize column names just in case
+    #Standardize column names just in case
     df.columns = [col.strip() for col in df.columns]
 
-    # Try finding common coordinate column names
+    #Try finding common coordinate column names
     lat_col = [col for col in df.columns if "lat" in col.lower()]
     lon_col = [col for col in df.columns if "lon" in col.lower() or "lng" in col.lower()]
 
@@ -29,11 +29,11 @@ def clean_hospital_location_data(df):
     df = df[[lat_col, lon_col]].copy()
     df = df.rename(columns={lat_col: "Latitude", lon_col: "Longitude"})
 
-    # Drop rows with missing or invalid coordinates
+    #Drop rows with missing or invalid coordinates
     df = df.dropna(subset=["Latitude", "Longitude"])
     df = df[(df["Latitude"] != 0) & (df["Longitude"] != 0)]
 
-    # Report memory usage
+    #Report memory usage
     memory_mb = df.memory_usage(deep=True).sum() / (1024 ** 2)
     print(f"Memory usage of cleaned hospital DataFrame: {memory_mb:.2f} MB")
 

@@ -8,11 +8,10 @@ import sys
 # Start total time
 start_total = time.time()
 
-# Load shapefile with county geometries
+#Loads shapefile with county geometries, used to match counties to coordinates
 counties_gdf = gpd.read_file("Data/cb_2018_us_county_20m.shp")
-print(counties_gdf.columns)
+#print(counties_gdf.columns)
 
-# State FIPS codes to state names
 state_fips_to_name = {
     "01": "alabama", "02": "alaska", "04": "arizona", "05": "arkansas", "06": "california",
     "08": "colorado", "09": "connecticut", "10": "delaware", "11": "district of columbia",
@@ -27,28 +26,23 @@ state_fips_to_name = {
     "51": "virginia", "53": "washington", "54": "west virginia", "55": "wisconsin", "56": "wyoming"
 }
 
-# Add lowercase state name and county name columns
+#Standardizes columns into lowercase to avoid errors in merge
 counties_gdf["state"] = counties_gdf["STATEFP"].map(state_fips_to_name)
 counties_gdf["county"] = counties_gdf["NAME"].str.lower()
 
-# Load summarized COVID data
+#Load summarized COVID data
 cases_df = pd.read_csv("Data/total_cases_by_county.csv")
 cases_df["county"] = cases_df["county"].str.lower()
 cases_df["state"] = cases_df["state"].str.lower()
 
-# Merge cases with geometries
+#Merge cases with geometries using left join
 merged = counties_gdf.merge(cases_df, on=["state", "county"], how="left")
 print(merged["total_cases"].describe())
 
-# Add a log-transformed column (add 1 to avoid log(0))
-""" merged["log_total_cases"] = np.log1p(merged["total_cases"])
- """
-# Plot using the log scale
-
-# Report memory usage
+#Report memory usage
 print(f"Memory usage of final GeoDataFrame: {merged.memory_usage(deep=True).sum() / 1024**2:.2f} MB")
 
-# Plot
+#Plot
 fig, ax = plt.subplots(1, 1, figsize=(15, 10))
 merged.plot(
     column='total_cases',
@@ -58,18 +52,9 @@ merged.plot(
     linewidth=0.2,
     edgecolor='0.7',
     vmin=0,
-    vmax=400000,  # tweak this based on your data
+    vmax=400000,  #Scaling variable 
     missing_kwds={"color": "lightgrey", "label": "No data"}
 )
-""" merged.plot(
-    column='log_total_cases',
-    ax=ax,
-    legend=True,
-    cmap='Reds',
-    linewidth=0.2,
-    edgecolor='0.7',
-    missing_kwds={"color": "lightgrey", "label": "No data"}
-) """
 ax.set_title("COVID-19 Total Cases by US County", fontsize=16)
 ax.axis("off")
 
