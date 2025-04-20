@@ -52,7 +52,7 @@ merged.plot(
     linewidth=0.2,
     edgecolor='0.7',
     vmin=0,
-    vmax=400000,  #Scaling variable 
+    vmax=3000,  #Scaling variable 
     missing_kwds={"color": "lightgrey", "label": "No data"}
 )
 ax.set_title("COVID-19 Total Cases by US County", fontsize=16)
